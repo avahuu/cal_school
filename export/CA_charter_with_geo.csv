@@ -1,0 +1,1272 @@
+LEAID,LEA_NAME,SCHID,SCH_NAME,CITY,COMBOKEY,NMCNTY,LOCALE,LAT,LON
+600011,Fort Sage Unified,12763,Mt. Lassen Charter,Herlong,60001112763,Lassen County,33,40.4211,-120.650932
+600034,Windsor Unified,6983,Cali Calmecac Language Academy,Windsor,60003406983,Sonoma County,21,38.550242,-122.82712
+600036,Natomas Unified,11087,Westlake Charter,Sacramento,60003611087,Sacramento County,11,38.67564,-121.526258
+600036,Natomas Unified,11735,Natomas Pacific Pathways Prep,Sacramento,60003611735,Sacramento County,11,38.6551,-121.546082
+600036,Natomas Unified,12523,Natomas Pacific Pathways Prep Middle,Sacramento,60003612523,Sacramento County,11,38.6551,-121.546082
+600036,Natomas Unified,13189,Leroy Greene Academy,Sacramento,60003613189,Sacramento County,11,38.610646,-121.527983
+600036,Natomas Unified,14043,Natomas Pacific Pathways Prep Elementary,Sacramento,60003614043,Sacramento County,11,38.651228,-121.525268
+600047,Tracy Joint Unified,14472,Tracy Independent Study Charter,Tracy,60004714472,San Joaquin County,23,37.747601,-121.452584
+600061,Riverbank Unified,11925,Riverbank Language Academy,Riverbank,60006111925,Stanislaus County,21,37.734392,-120.953554
+600062,Oakdale Joint Unified,6752,Oakdale Charter,Oakdale,60006206752,Stanislaus County,21,37.7731,-120.838
+600064,Porterville Unified,12042,Butterfield Charter,Porterville,60006412042,Tulare County,23,36.092278,-119.037634
+600064,Porterville Unified,12356,Harmony Magnet Academy,Strathmore,60006412356,Tulare County,41,36.143243,-119.063831
+600064,Porterville Unified,14357,Porterville Military Academy,Porterville,60006414357,Tulare County,23,36.092278,-119.037634
+600116,Chawanakee Unified,7170,Chawanakee Academy Charter,O'Neals,60011607170,Madera County,42,37.124457,-119.729959
+600116,Chawanakee Unified,13035,Minarets Charter High,O'Neals,60011613035,Madera County,42,37.124457,-119.729959
+601332,Twin Rivers Unified,4148,Smythe Academy of Arts and Sciences,Sacramento,60133204148,Sacramento County,11,38.615271,-121.476073
+601332,Twin Rivers Unified,5023,Westside Preparatory Charter,Rio Linda,60133205023,Sacramento County,21,38.686459,-121.466628
+601332,Twin Rivers Unified,11074,Creative Connections Arts Academy,North Highlands,60133211074,Sacramento County,21,38.700571,-121.370196
+601414,Santa Barbara Unified,2792,Santa Barbara Charter,Goleta,60141402792,Santa Barbara County,22,34.4499,-119.8351
+601426,Bonsall Unified,6481,Vivian Banks Charter,Pala,60142606481,San Diego County,42,33.36578,-117.073417
+601427,Penn Valley Union Elementary,2295,Vantage Point Charter,Penn Valley,60142702295,Nevada County,32,39.195037,-121.181187
+601461,Magnolia Science Academy Santa Ana District,12419,Magnolia Science Academy Santa Ana,Santa Ana,60146112419,Orange County,11,33.744302,-117.908212
+601462,River Valley Charter District,7308,River Valley Charter,Lakeside,60146207308,San Diego County,21,32.853301,-116.939229
+601463,Vista Springs Charter District,14373,Vista Springs Charter,Vista,60146314373,San Diego County,21,33.220727,-117.234405
+601464,Community Montessori District,13054,Community Montessori,Escondido,60146413054,San Diego County,21,33.129492,-117.112154
+601465,Oakland Charter High District,12041,Oakland Charter High,Oakland,60146512041,Alameda County,11,37.78591,-122.219635
+601466,Girls Athletic Leadership School Los Angeles District,13973,Girls Athletic Leadership School Los Angeles,Panorama City,60146613973,Los Angeles County,11,34.216658,-118.44931
+601467,Pacific Community Charter District,8155,Pacific Community Charter,Point Arena,60146708155,Mendocino County,43,38.913248,-123.692667
+601468,America's Finest Charter District,14198,America's Finest Charter School,San Diego,60146814198,San Diego County,11,32.712839,-117.098047
+601469,Sycamore Valley Academy District,13015,Sycamore Valley Academy,Visalia,60146913015,Tulare County,41,36.298113,-119.42025
+601470,Crete Academy District,14100,Crete Academy,Los Angeles,60147014100,Los Angeles County,11,33.984455,-118.331238
+601471,Accelerated Charter Elementary District,10830,Accelerated Charter Elementary,Los Angeles,60147110830,Los Angeles County,11,34.015085,-118.273361
+601472,Ocean Grove Charter District,11464,Ocean Grove Charter,Boulder Creek,60147211464,Santa Cruz County,41,37.168387,-122.134761
+601473,Classical Academy Vista District,14298,Classical Academy Vista,Vista,60147314298,San Diego County,21,33.172488,-117.220689
+601474,B. Roberto Cruz Leadership Academy District,13927,B. Roberto Cruz Leadership Academy,San Jose,60147413927,Santa Clara County,11,37.359535,-121.815289
+601475,Pathways to College K8 District,11746,Pathways to College K8,Hesperia,60147511746,San Bernardino County,21,34.417182,-117.3085
+601477,New Heights Charter District,11630,New Heights Charter,Los Angeles,60147711630,Los Angeles County,11,34.010607,-118.317697
+601478,Meadows Arts and Technology Elementary District,12541,Meadows Arts and Technology Elementary,Thousand Oaks,60147812541,Ventura County,12,34.192841,-118.841759
+601479,American Indian Public Charter District,5673,AIMS College Prep Middle School,Oakland,60147905673,Alameda County,11,37.800157,-122.265641
+601480,Sol Aureus College Preparatory District,11198,Sol Aureus College Preparatory,Sacramento,60148011198,Sacramento County,11,38.50764,-121.527027
+601481,SOAR Charter Academy District,12377,SOAR Charter Academy,San Bernardino,60148112377,San Bernardino County,12,34.092659,-117.286934
+601483,SD Global Vision Academy District,12630,San Diego Global Vision Academy,San Diego,60148312630,San Diego County,11,32.762641,-117.119061
+601484,PUC Triumph CHRTR Academy & PUC Triumph CHRTR High District,12812,PUC Triumph Charter Academy and PUC Triumph Charter High,Sylmar,60148412812,Los Angeles County,11,34.314435,-118.459941
+601485,Crescent Valley Public Charter II District,14209,Crescent Valley Public Charter II,Visalia,60148514209,Tulare County,12,36.33039,-119.291706
+601486,Palm Lane Elementary Charter District,162,Palm Lane Elementary Charter,Anaheim,60148600162,Orange County,11,33.81558,-117.938151
+601487,Mojave River Academy - Route 66 District,14233,Mojave River Academy - Route 66,Victorville,60148714233,San Bernardino County,21,34.521016,-117.304015
+601488,Palisades Charter High District,4593,Palisades Charter High,Pacific Palisades,60148804593,Los Angeles County,11,34.047871,-118.531105
+601489,The Heights Charter District,13185,The Heights Charter,Alpine,60148913185,San Diego County,21,32.835301,-116.75497
+601490,CHIME Institute's Schwarzenegger Community District,8724,CHIME Institute's Schwarzenegger Community,Woodland Hills,60149008724,Los Angeles County,11,34.165223,-118.562771
+601493,Downtown Charter Academy District,13752,Downtown Charter Academy,Oakland,60149313752,Alameda County,11,37.7805,-122.241007
+601494,Los Angeles Leadership Academy District,10517,Los Angeles Leadership Academy,Los Angeles,60149410517,Los Angeles County,11,34.08322,-118.210608
+601495,Wilder's Preparatory Academy Charter Middle District,12247,Wilder's Preparatory Academy Charter Middle,Inglewood,60149512247,Los Angeles County,21,33.974365,-118.357358
+601496,Aspire Triumph Technology Academy District,10724,Aspire Triumph Technology Academy,Oakland,60149610724,Alameda County,11,37.774025,-122.182519
+601497,Willits Elementary Charter District,13021,Willits Elementary Charter,Willits,60149713021,Mendocino County,33,39.412351,-123.347149
+601498,KIPP Bayview Elementary District,14322,KIPP Bayview Elementary,San Francisco,60149814322,San Francisco County,11,37.718421,-122.389474
+601499,Sierra Expeditionary Learning District,12628,Sierra Expeditionary Learning,Truckee,60149912628,Nevada County,32,39.324738,-120.209113
+601500,Options for Youth-Acton District,14202,Options for Youth-Acton,Fontana,60150014202,San Bernardino County,21,34.063566,-117.429905
+601501,Olive Grove Charter - Buellton District,14258,Olive Grove Charter - Buellton,Buellton,60150114258,Santa Barbara County,32,34.610034,-120.187132
+601502,Making Waves Academy District,12043,Making Waves Academy,Richmond,60150212043,Contra Costa County,21,37.988529,-122.332591
+601503,Elevate District,13795,Elevate School,San Diego,60150313795,San Diego County,11,32.786559,-117.144156
+601505,Da Vinci Communications District,13832,Da Vinci Communications,El Segundo,60150513832,Los Angeles County,21,33.917966,-118.384252
+601507,ISANA Himalia Academy District,12162,ISANA Himalia Academy,Los Angeles,60150712162,Los Angeles County,11,34.0026,-118.2593
+601508,Valley Life Charter District,12862,Valley Life Charter School,Visalia,60150812862,Tulare County,12,36.312467,-119.332501
+601509,Sweetwater Secondary District,14089,Sweetwater Secondary,Chula Vista,60150914089,San Diego County,21,32.64883,-117.053421
+601511,Creekside Charter District,12515,Creekside Charter,Olympic Valley,60151112515,Placer County,42,39.198941,-120.239981
+601512,Sutter Peak Charter Academy District,13958,Sutter Peak Charter Academy,Live Oak,60151213958,Sutter County,41,39.187386,-121.679156
+601513,Peabody Charter District,6027,Peabody Charter,Santa Barbara,60151306027,Santa Barbara County,13,34.441704,-119.728625
+601514,Latitude 37.8 High District,14257,Latitude 37.8 High,Oakland,60151414257,Alameda County,11,37.777625,-122.23037
+601515,High Tech High Media Arts District,11386,High Tech High Media Arts,San Diego,60151511386,San Diego County,11,32.734606,-117.219838
+601516,Harbor Springs Charter District,13715,Harbor Springs Charter,Julian,60151613715,San Diego County,42,33.078784,-116.594864
+601517,Compass Charter Schools of San Diego District,13179,Compass Charter Schools of San Diego,Thousand Oaks,60151713179,Ventura County,12,34.155773,-118.830751
+601519,EPIC CHRTR(Excellence Perf Innovation Citzenship) DIST,14018,EPIC Charter (Excellence Performance Innovation Citizenship),Anaheim,60151914018,Orange County,11,33.835374,-117.913275
+601520,Howard Gardner Community Charter District,12866,Howard Gardner Community Charter,Chula Vista,60152012866,San Diego County,11,32.641276,-117.095497
+601521,All Tribes Elementary Charter District,12735,All Tribes Elementary Charter,Valley Center,60152112735,San Diego County,42,33.277772,-116.954262
+601522,Audeo Charter District,10634,Audeo Charter,San Diego,60152210634,San Diego County,11,32.778765,-117.120217
+601523,Encore Jr./Sr. High Sch for the Perf & Visual Arts District,12375,Encore Jr./Sr. High Sch for the Perf and Visual Arts,Hesperia,60152312375,San Bernardino County,21,34.442792,-117.293283
+601524,Aspire Titan Academy District,12447,Aspire Titan Academy,Huntington Park,60152412447,Los Angeles County,21,33.978062,-118.23423
+601526,Monsenor Oscar Romero Charter Middle District,11928,Monsenor Oscar Romero Charter Middle,Los Angeles,60152611928,Los Angeles County,11,34.050517,-118.29396
+601527,Iftin Charter District,11385,Iftin Charter,San Diego,60152711385,San Diego County,11,32.757136,-117.078486
+601528,Insight @ San Diego District,13030,Insight @ San Diego,Simi Valley,60152813030,Ventura County,22,34.275884,-118.797998
+601529,Valor Academy Elementary District,13966,Valor Academy Elementary,Arleta,60152913966,Los Angeles County,11,34.229303,-118.436232
+601530,PUC Community Charter Elementary District,13768,PUC Community Charter Elementary,Sylmar,60153013768,Los Angeles County,11,34.306662,-118.438688
+601531,California Heritage Youthbuild Academy II District,12995,California Heritage Youthbuild Academy II,Redding,60153112995,Shasta County,22,40.536048,-122.303552
+601532,Bright Star Secondary Charter Academy District,11665,Stella High Charter Academy,Los Angeles,60153211665,Los Angeles County,21,33.928499,-118.306582
+601533,Ingenuity Charter District,13917,Ingenuity Charter,San Diego,60153313917,San Diego County,11,32.702116,-117.065832
+601534,Los Angeles Academy of Arts and Enterprise District,11628,Los Angeles Academy of Arts and Enterprise,Los Angeles,60153411628,Los Angeles County,11,34.060819,-118.255441
+601535,Intellectual Virtues Academy District,14009,Intellectual Virtues Academy,Long Beach,60153514009,Los Angeles County,11,33.788155,-118.189793
+601536,Rocketship Si Se Puede Academy District,12225,Rocketship Si Se Puede Academy,San Jose,60153612225,Santa Clara County,11,37.35231,-121.83888
+601537,Pacific View Charter District,8313,Pacific View Charter,Oceanside,60153708313,San Diego County,21,33.211427,-117.313507
+601538,Multicultural Learning Center District,8721,Multicultural Learning Center,Canoga Park,60153808721,Los Angeles County,11,34.206945,-118.587091
+601540,Environmental Charter Middle - Inglewood District,13591,Environmental Charter Middle - Inglewood,Inglewood,60154013591,Los Angeles County,21,33.930595,-118.335375
+601541,ISANA Palmati Academy District,12614,ISANA Palmati Academy,North Hollywood,60154112614,Los Angeles County,11,34.189629,-118.397507
+601542,Alliance Kory Hunter Middle District,13487,Alliance Kory Hunter Middle,Los Angeles,60154213487,Los Angeles County,21,33.987075,-118.247452
+601543,New Designs Charter School-Watts District,12456,New Designs Charter School-Watts,Los Angeles,60154312456,Los Angeles County,21,33.917154,-118.264685
+601544,KIPP Comienza Community Prep District,12705,KIPP Comienza Community Prep,Huntington Park,60154412705,Los Angeles County,21,33.97404,-118.232051
+601545,Keiller Leadership Academy District,5492,Keiller Leadership Academy,San Diego,60154505492,San Diego County,11,32.712664,-117.042175
+601546,Ivy Bound Acad Math Sci and Tech Charter Mid 2 District,13685,Ivy Bound Acad Math Sci and Tech Charter Mid 2,Northridge,60154613685,Los Angeles County,11,34.227527,-118.569648
+601547,Aspire Richmond Technology Academy District,13891,Aspire Richmond Technology Academy,Richmond,60154713891,Contra Costa County,21,37.981578,-122.323765
+601548,New Designs Charter District,10840,New Designs Charter,Los Angeles,60154810840,Los Angeles County,11,34.030995,-118.275174
+601549,Pivot Charter School North Valley II District,14363,Pivot Charter School North Valley II,Chico,60154914363,Butte County,12,39.734687,-121.821528
+601550,Los Feliz Charter School for the Arts District,11660,California Creative Learning Academy (formerly Los Feliz Charter School for the Arts),Los Angeles,60155011660,Los Angeles County,11,34.110857,-118.2455
+601551,Urban Discovery Academy Charter District,12318,Urban Discovery Academy Charter,San Diego,60155112318,San Diego County,11,32.714212,-117.152263
+601552,Aspire Golden State College Preparatory Academy District,12331,Aspire Golden State College Preparatory Academy,Oakland,60155212331,Alameda County,11,37.75947,-122.198408
+601553,Aspire Centennial College Preparatory Academy District,13135,Aspire Centennial College Preparatory Academy,Huntington Park,60155313135,Los Angeles County,21,33.97754,-118.234155
+601554,Inspire School of Arts and Sciences District,12539,Inspire School of Arts and Sciences,Chico,60155412539,Butte County,12,39.734613,-121.847795
+601555,Glacier High School Charter District,10541,Glacier High School Charter,Oakhurst,60155510541,Madera County,32,37.348392,-119.641202
+601556,Uncharted Shores Academy District,11883,Uncharted Shores Academy,Crescent City,60155611883,Del Norte County,33,41.75096,-124.201091
+601557,Aspire Junior Collegiate Academy District,12077,Aspire Junior Collegiate Academy,Huntington Park,60155712077,Los Angeles County,21,33.978062,-118.23423
+601558,Norton Science and Language Academy District,12150,Norton Science and Language Academy,San Bernardino,60155812150,San Bernardino County,12,34.097903,-117.279618
+601559,Lake County International Charter District,10819,Lake County International Charter,Middletown,60155910819,Lake County,42,38.75153,-122.614381
+601560,Classical Academy District,8300,Classical Academy,Escondido,60156008300,San Diego County,21,33.084038,-117.055483
+601561,ACE Charter High District,13023,ACE Charter High School,San Jose,60156113023,Santa Clara County,11,37.366775,-121.857906
+601562,Mission View Public District,11906,Mission View Public,Santa Clarita,60156211906,Los Angeles County,21,34.415751,-118.552754
+601563,Sherman Thomas Charter High District,12209,Sherman Thomas Charter High,Madera,60156312209,Madera County,23,36.98333,-120.06885
+601564,North Valley Military INST College ACAD District,11339,North Valley Military Institute College Preparatory Academy,Sun Valley,60156411339,Los Angeles County,11,34.235666,-118.396665
+601565,Nova Academy Early College High District,10989,Nova Academy Early College High,Santa Ana,60156510989,Orange County,11,33.747442,-117.872867
+601567,International School of Monterey District,8744,International School of Monterey,Seaside,60156708744,Monterey County,22,36.612649,-121.82705
+601568,Alliance Ted K. Tajima High District,12766,Alliance Ted K. Tajima High,Los Angeles,60156812766,Los Angeles County,11,34.063542,-118.261557
+601569,WISH Academy High District,14098,WISH Academy High,Los Angeles,60156914098,Los Angeles County,11,33.958624,-118.428875
+601570,Monterey Bay Charter District,11695,Monterey Bay Charter,Pacific Grove,60157011695,Monterey County,22,36.60542,-121.930167
+601571,New Village Girls Academy District,11631,New Village Girls Academy,Los Angeles,60157111631,Los Angeles County,11,34.071389,-118.279646
+601573,Watts Learning Center District,7522,Watts Learning Center,Los Angeles,60157307522,Los Angeles County,11,33.949962,-118.278746
+601574,Yuba Environmental Science Charter Academy District,12258,Yuba Environmental Science Charter Academy,Oregon House,60157412258,Yuba County,42,39.363447,-121.245302
+601575,TEACH Prep Mildred S. Cunningham & Edith H. Morris Elem DIST,14313,TEACH Prep Mildred S. Cunningham & Edith H. Morris Elem,Los Angeles,60157514313,Los Angeles County,11,33.96068,-118.309341
+601576,KIPP Adelante Preparatory Academy District,11263,KIPP Adelante Preparatory Academy,San Diego,60157611263,San Diego County,11,32.708553,-117.089129
+601577,Mojave River Academy - Silver Mountain District,14245,Mojave River Academy - Silver Mountain,Barstow,60157714245,San Bernardino County,32,34.892906,-117.053925
+601578,Mueller Charter (Robert L.) District,869,Mueller Charter (Robert L.),Chula Vista,60157800869,San Diego County,11,32.626906,-117.093812
+601579,Opportunities for Learning - Santa Clarita District,8070,Opportunities for Learning - Santa Clarita,Valencia,60157908070,Los Angeles County,21,34.438265,-118.563781
+601580,CHAMPS - Charter HS of Arts-Multimedia & Performing District,10865,CHAMPS - Charter HS of Arts-Multimedia & Performing,Van Nuys,60158010865,Los Angeles County,11,34.19512,-118.44752
+601581,Laurel Tree Charter District,12960,Laurel Tree Charter,Arcata,60158112960,Humboldt County,33,40.899387,-124.083729
+601582,Caliber: ChangeMakers Academy District,14030,Caliber: ChangeMakers Academy,Vallejo,60158214030,Solano County,12,38.119334,-122.250383
+601584,PUC Lakeview Charter Academy District,10837,PUC Lakeview Charter Academy,Lake View Terrace,60158410837,Los Angeles County,11,34.280299,-118.381669
+601585,King-Chavez Academy of Excellence District,10381,King-Chavez Academy of Excellence,San Diego,60158510381,San Diego County,11,32.698008,-117.136112
+601586,Valley Charter Elementary District,12641,Valley Charter Elementary,North Hills,60158612641,Los Angeles County,11,34.234953,-118.492001
+601587,Golden Valley Orchard District,13910,Golden Valley Orchard,Orangevale,60158713910,Sacramento County,21,38.685158,-121.215272
+601588,Edison-Bethune Charter Academy District,7958,Edison-Bethune Charter Academy,Fresno,60158807958,Fresno County,11,36.726376,-119.818457
+601589,Alliance College-Ready Middle Academy 8 District,13273,Alliance College-Ready Middle Academy 8,Los Angeles,60158913273,Los Angeles County,21,34.03546,-118.187311
+601590,Heartland Charter District,14226,Heartland Charter,Maricopa,60159014226,Kern County,42,35.05416,-119.403814
+601591,Discovery Charter District,11792,DISCOVERY CHARTER SCHOOL - PHOENIX,San Jose,60159111792,Santa Clara County,11,37.302965,-121.972609
+601592,JCS - Pine Hills District,14346,JCS - Pine Hills,Temecula,60159214346,Riverside County,12,33.481266,-117.138196
+601593,Clear Passage Educational Center District,13860,Clear Passage Educational Center,Long Beach,60159313860,Los Angeles County,11,33.78454,-118.18098
+601594,Santa Monica Boulevard Community Charter District,3333,Santa Monica Boulevard Community Charter,Los Angeles,60159403333,Los Angeles County,11,34.089564,-118.315199
+601595,Redding STEM Academy District,13960,Redding STEM Academy,Redding,60159513960,Shasta County,13,40.628656,-122.398288
+601596,Birmingham Community Charter High District,2857,Birmingham Community Charter High,Lake Balboa,60159602857,Los Angeles County,11,34.187721,-118.504882
+601597,Downtown College Preparatory District,8632,Downtown College Preparatory,San Jose,60159708632,Santa Clara County,11,37.31614,-121.87308
+601598,Aspire Capitol Heights Academy District,11189,Aspire Capitol Heights Academy,Sacramento,60159811189,Sacramento County,11,38.555297,-121.470108
+601599,ISANA Nascent Academy District,10869,ISANA Nascent Academy,Los Angeles,60159910869,Los Angeles County,11,34.025831,-118.333173
+601600,Scholarship Prep - Oceanside District,14079,Scholarship Prep - Oceanside,Oceanside,60160014079,San Diego County,21,33.231833,-117.317519
+601601,Mojave River Academy - Gold Canyon District,14270,Mojave River Academy - Gold Canyon,Fontana,60160114270,San Bernardino County,21,34.091259,-117.4721
+601602,Piner-Olivet Charter District,6676,Piner-Olivet Charter,Santa Rosa,60160206676,Sonoma County,12,38.480408,-122.764313
+601603,Oasis Charter Public District,10558,Oasis Charter Public,Salinas,60160310558,Monterey County,12,36.704746,-121.670476
+601604,Aspire East Palo Alto Charter District,14051,Aspire East Palo Alto Charter,East Palo Alto,60160414051,San Mateo County,21,37.468276,-122.127922
+601606,Northern United - Siskiyou Charter District,14256,Northern United - Siskiyou Charter,Yreka,60160614256,Siskiyou County,32,41.728747,-122.63764
+601607,Summit Leadership Academy-High Desert District,11118,Summit Leadership Academy-High Desert,Hesperia,60160711118,San Bernardino County,41,34.412835,-117.382453
+601609,Sierra Charter District,11846,Sierra Charter,Fresno,60160911846,Fresno County,11,36.767918,-119.729738
+601610,Redwood Academy of Ukiah District,8520,Redwood Academy of Ukiah,Ukiah,60161008520,Mendocino County,33,39.164787,-123.209757
+601611,Orange County Workforce Innovation High District,14040,Orange County Workforce Innovation High,Anaheim,60161114040,Orange County,11,33.837954,-117.94188
+601612,Russell Westbrook Why Not? High School,14144,Russell Westbrook Why Not? High School,Los Angeles,60161214144,Los Angeles County,11,33.99531,-118.308701
+601613,Fenton STEM Acad: Elem CTR for Sci Tech Engr & Math District,13872,Fenton STEM Acad: Elem Center for Sci Tech Engr and Math,Sun Valley,60161313872,Los Angeles County,11,34.23147,-118.366201
+601614,Envision Academy for Arts & Technology District,10947,Envision Academy for Arts & Technology,Oakland,60161410947,Alameda County,11,37.804671,-122.268353
+601616,California Virtual Academy at Fresno District,14251,California Virtual Academy at Fresno,Simi Valley,60161614251,Ventura County,22,34.275884,-118.797998
+601617,Lennox Mathematics Science and Technology Academy District,11328,Lennox Mathematics Science and Technology Academy,Lennox,60161711328,Los Angeles County,21,33.935113,-118.351786
+601619,KIPP Heartwood Academy District,11444,KIPP Heartwood Academy,San Jose,60161911444,Santa Clara County,11,37.337856,-121.839923
+601621,Rocketship Discovery Prep District,12668,Rocketship Discovery Prep,San Jose,60162112668,Santa Clara County,11,37.354678,-121.870315
+601622,High Tech Middle North County District,12388,High Tech Middle North County,San Marcos,60162212388,San Diego County,21,33.132371,-117.202227
+601624,Animo Legacy Charter Middle District,12935,Animo Legacy Charter Middle,Los Angeles,60162412935,Los Angeles County,21,33.921033,-118.308616
+601625,Alta Vista Innovation High District,14154,Alta Vista Innovation High,Hesperia,60162514154,San Bernardino County,21,34.468817,-117.292976
+601626,KIPP San Francisco Bay Academy District,11255,KIPP San Francisco Bay Academy,San Francisco,60162611255,San Francisco County,11,37.78344,-122.437375
+601627,Innovations Academy District,12261,Innovations Academy,San Diego,60162712261,San Diego County,11,32.83428,-117.127331
+601628,Humphreys College Academy of Business Law and ED District,13064,Humphreys College Academy of Business Law and Education,Stockton,60162813064,San Joaquin County,11,38.010194,-121.316825
+601629,Community Collaborative Virtual - Sage Oak Charter District,14107,Sage Oak Charter,Redlands,60162914107,San Bernardino County,13,34.038341,-117.153714
+601630,Magnolia Science Academy Bell District,12695,Magnolia Science Academy Bell,Bell,60163012695,Los Angeles County,21,33.978276,-118.19975
+601631,Trivium Charter School Adventure District,14339,Trivium Charter School Adventure,Lompoc,60163114339,Santa Barbara County,23,34.637884,-120.43848
+601632,Pacific View Charter 2.0 District,8486,Pacific View Charter 2.0,Eureka,60163208486,Humboldt County,33,40.783274,-124.169368
+601633,College Bridge Academy District,13704,College Bridge Academy,Long Beach,60163313704,Los Angeles County,11,33.82337,-118.185391
+601635,Alternatives in Action District,8674,Alternatives in Action,Oakland,60163508674,Alameda County,11,37.76445,-122.195422
+601636,Alpha Cindy Avitia High District,13926,Alpha Cindy Avitia High,San Jose,60163613926,Santa Clara County,11,37.332384,-121.828027
+601637,Rocketship Alma Academy District,13048,Rocketship Alma Academy,San Jose,60163713048,Santa Clara County,11,37.31343,-121.877671
+601638,College Preparatory Middle District,14334,College Preparatory Middle,Spring Valley,60163814334,San Diego County,21,32.74583,-116.971299
+601639,Motivated Youth Academy,13837,Motivated Youth Academy,San Marcos,60163913837,San Diego County,21,33.141534,-117.162495
+601640,Leadership Military Academy District,12986,Leadership Military Academy,Moreno Valley,60164012986,Riverside County,21,33.9214,-117.225808
+601641,Provisional Accelerated Learning Academy District,10364,Provisional Accelerated Learning Academy,San Bernardino,60164110364,San Bernardino County,21,34.151065,-117.356448
+601642,The Academy of Alameda District,42,The Academy of Alameda,Alameda,60164200042,Alameda County,21,37.777038,-122.285398
+601644,Eel River Charter District,3304,Eel River Charter,Covelo,60164403304,Mendocino County,43,39.793826,-123.249194
+601645,Arroyo Vista Charter District,8299,Arroyo Vista Charter,Chula Vista,60164508299,San Diego County,11,32.638773,-116.953087
+601647,Impact Academy of Arts & Technology District,11849,Impact Academy of Arts & Technology,Hayward,60164711849,Alameda County,21,37.6306,-122.102755
+601648,Summit Public School: Shasta District,13354,Summit Public School: Shasta,Daly City,60164813354,San Mateo County,21,37.66658,-122.476364
+601649,Animo Mae Jemison Charter Middle District,13787,Animo Mae Jemison Charter Middle,Los Angeles,60164913787,Los Angeles County,21,33.91754,-118.264041
+601652,Gabriella Charter 2 District,14109,Gabriella Charter 2,Los Angeles,60165214109,Los Angeles County,11,34.012285,-118.269203
+601653,California Montessori Project-San Juan Campuses District,11733,California Montessori Project-San Juan Campuses,Carmichael,60165311733,Sacramento County,21,38.634039,-121.340276
+601654,Alliance Virgil Roberts Leadership Academy District,13597,Alliance Virgil Roberts Leadership Academy,Los Angeles,60165413597,Los Angeles County,11,33.977166,-118.325391
+601656,Downtown College Prep - Alum Rock District,12827,Downtown College Prep - Alum Rock,San Jose,60165612827,Santa Clara County,11,37.366775,-121.857906
+601657,Animo Jackie Robinson High District,11636,Animo Jackie Robinson High,Los Angeles,60165711636,Los Angeles County,11,34.017318,-118.275298
+601658,Animo Ellen Ochoa Charter Middle District,12905,Animo Ellen Ochoa Charter Middle,Los Angeles,60165812905,Los Angeles County,21,34.041202,-118.17166
+601660,Heritage K-8 Charter District,11228,Heritage K-8 Charter,Escondido,60166011228,San Diego County,21,33.135941,-117.054213
+601661,eCademy Charter at Crane District,12929,eCademy Charter at Crane,Turlock,60166112929,Stanislaus County,23,37.496993,-120.839436
+601662,Kavod Charter District,13201,Kavod Charter,San Diego,60166213201,San Diego County,11,32.819575,-117.168138
+601664,Alameda Community Learning Center District,8673,Alameda Community Learning Center,Alameda,60166408673,Alameda County,21,37.779205,-122.287277
+601665,Chico Country Day District,5708,Chico Country Day,Chico,60166505708,Butte County,12,39.724042,-121.833269
+601666,Alliance Collins Family College-Ready High District,10871,Alliance Collins Family College-Ready High,Huntington Park,60166610871,Los Angeles County,21,33.977345,-118.234464
+601667,Aspire Pacific Academy District,12634,Aspire Pacific Academy,Huntington Park,60166712634,Los Angeles County,21,33.990468,-118.225848
+601669,Golden Valley River District,11902,Golden Valley River,Orangevale,60166911902,Sacramento County,21,38.674332,-121.195451
+601670,Richmond Charter Elementary-Benito Juarez District,13753,Richmond Charter Elementary-Benito Juarez,Richmond,60167013753,Contra Costa County,21,37.91138,-122.35502
+601671,Alpha: Cornerstone Academy Preparatory District,12639,Alpha: Cornerstone Academy Preparatory,San Jose,60167112639,Santa Clara County,11,37.324773,-121.851296
+601672,Oxford Preparatory Academy - Saddleback Valley District,14001,Oxford Preparatory Academy - Saddleback Valley,Lake Forest,60167214001,Orange County,21,33.62878,-117.700481
+601674,Rocklin Academy at Meyers Street District,12012,Rocklin Academy at Meyers Street,Rocklin,60167412012,Placer County,21,38.80289,-121.287302
+601677,Crescent View West Public Charter District,10789,Crescent View West Public Charter,Fresno,60167710789,Fresno County,11,36.780471,-119.788481
+601678,Magnolia Science Academy 4 District,12360,Magnolia Science Academy 4,Los Angeles,60167812360,Los Angeles County,11,34.029926,-118.434795
+601679,Valor Academy Middle District,12510,Valor Academy Middle,North Hills,60167912510,Los Angeles County,11,34.234884,-118.463013
+601680,Ackerman Charter,37,Bowman Charter,Auburn,60168000037,Placer County,31,38.935341,-121.055526
+601681,SIATech Academy South District,13829,SIATech Academy South,Los Angeles,60168113829,Los Angeles County,21,34.033677,-118.162315
+601682,MethodSchools District,13762,MethodSchools,El Cajon,60168213762,San Diego County,41,32.781577,-116.850437
+601683,Lifeline Education Charter District,12119,Lifeline Education Charter,Compton,60168312119,Los Angeles County,21,33.8947,-118.21626
+601684,High Tech LA District,10829,High Tech LA,Lake Balboa,60168410829,Los Angeles County,11,34.187261,-118.506195
+601685,Morrice Schaefer Charter District,9993,Morrice Schaefer Elementary School,Santa Rosa,60168509993,Sonoma County,12,38.473942,-122.74556
+601686,LaVerne Elementary Preparatory Academy District,12333,LaVerne Elementary Preparatory Academy,Hesperia,60168612333,San Bernardino County,21,34.382993,-117.27724
+601687,King-Chavez Preparatory Academy District,11767,King-Chavez Preparatory Academy,San Diego,60168711767,San Diego County,11,32.710844,-117.130502
+601688,JCS - Cedar Cove District,14254,JCS-Cedar Cove,Encinitas,60168814254,San Diego County,21,33.035931,-117.275921
+601689,Pivot Charter School - San Diego II District,14347,Pivot Charter School - San Diego II,San Marcos,60168914347,San Diego County,21,33.1249,-117.20852
+601690,Alliance Leichtman-Levine FAM Foundation Env Sci High DIST,12342,Alliance Leichtman-Levine Family Foundation Env Sci High,Los Angeles,60169012342,Los Angeles County,11,34.113259,-118.246685
+601691,Community School for Creative Education District,12844,Community School for Creative Education,Oakland,60169112844,Alameda County,11,37.784895,-122.238787
+601693,KIPP Academy of Opportunity District,11308,KIPP Academy of Opportunity,Los Angeles,60169311308,Los Angeles County,11,33.96107,-118.28246
+601694,Alliance Jack H. Skirball Middle District,11634,Alliance Jack H. Skirball Middle,Los Angeles,60169411634,Los Angeles County,11,33.930271,-118.26495
+601695,San Jose Charter Academy District,7533,San Jose Charter Academy,West Covina,60169507533,Los Angeles County,21,34.062378,-117.960456
+601696,KIPP Compton Community District,14242,KIPP Compton Community,Los Angeles,60169614242,Los Angeles County,21,33.911106,-118.271082
+601697,San Jose Conservation Corps Charter District,10664,San Jose Conservation Corps Charter,San Jose,60169710664,Santa Clara County,11,37.37233,-121.896831
+601698,Millennium Charter District,11426,Millennium Charter,Tracy,60169811426,San Joaquin County,23,37.745973,-121.424345
+601699,Watts Learning Center Charter Middle District,12491,Watts Learning Center Charter Middle,Los Angeles,60169912491,Los Angeles County,11,33.957097,-118.269051
+601700,City Heights Preparatory Charter District,12961,City Heights Preparatory Charter,San Diego,60170012961,San Diego County,11,32.754037,-117.080107
+601701,Empire Springs Charter District,13671,Empire Springs Charter,Temecula,60170113671,Riverside County,12,33.511711,-117.157617
+601702,Global Education Academy District,11931,Global Education Academy,Los Angeles,60170211931,Los Angeles County,11,34.00838,-118.282971
+601703,Aspire Alexander Twilight Secondary Academy District,12785,Aspire Alexander Twilight Secondary Academy,Sacramento,60170312785,Sacramento County,21,38.610053,-121.407369
+601704,ASCEND District,8677,ASCEND,Oakland,60170408677,Alameda County,11,37.773247,-122.22068
+601705,Guajome Park Academy Charter District,3964,Guajome Park Academy Charter,Vista,60170503964,San Diego County,21,33.229582,-117.249502
+601706,Magnolia Science Academy District,10524,Magnolia Science Academy,Reseda,60170610524,Los Angeles County,11,34.20072,-118.530521
+601707,Alliance Margaret M.Bloomfield Technology ACAD High District,12924,Alliance Margaret M. Bloomfield Technology Academy High,Huntington Park,60170712924,Los Angeles County,21,33.96696,-118.230601
+601708,Environmental Charter Middle District,12673,Environmental Charter Middle,Gardena,60170812673,Los Angeles County,11,33.880456,-118.289888
+601709,New Vision Middle District,12466,New Vision Middle,Highland,60170912466,San Bernardino County,21,34.134885,-117.222551
+601711,ASA Charter District,11105,ASA Charter,San Bernardino,60171111105,San Bernardino County,12,34.155133,-117.294599
+601712,Kid Street Learning Center Charter District,8401,Kid Street Learning Center Charter,Santa Rosa,60171208401,Sonoma County,12,38.441004,-122.722026
+601713,Los Angeles College Prep Academy District,10897,Los Angeles College Prep Academy,Los Angeles,60171310897,Los Angeles County,11,34.102605,-118.183261
+601714,Aspen Valley Prep Academy District,10775,Aspen Valley Prep Academy,Fresno,60171410775,Fresno County,11,36.794477,-119.83641
+601715,Vista Norte Public Charter District,14217,Vista Norte Public Charter,Rialto,60171514217,San Bernardino County,21,34.122767,-117.367093
+601716,California Virtual Academy @ Los Angeles District,12034,California Virtual Academy @ Los Angeles,Simi Valley,60171612034,Ventura County,22,34.275884,-118.797998
+601718,Cox Academy District,4257,Cox Academy,Oakland,60171804257,Alameda County,11,37.746302,-122.161401
+601719,Manzanita Public Charter District,12214,Manzanita Public Charter,Vandenberg Air Force Base,60171912214,Santa Barbara County,41,34.747599,-120.507128
+601721,Rise Kohyang Elementary District,14422,Rise Kohyang Elementary,Los Angeles,60172114422,Los Angeles County,11,34.062468,-118.282165
+601722,Richmond College Preparatory District,11576,Richmond College Preparatory,Richmond,60172211576,Contra Costa County,21,37.929179,-122.35934
+601723,Rise Kohyang Middle District,12852,Rise Kohyang Middle,Los Angeles,60172312852,Los Angeles County,11,34.061193,-118.287378
+601724,AeroSTEM Academy District,14234,AeroSTEM Academy,Yuba City,60172414234,Sutter County,22,39.129262,-121.603046
+601725,ICEF Inglewood Elementary Charter Academy District,12467,ICEF Inglewood Elementary Charter Academy,Inglewood,60172512467,Los Angeles County,21,33.958194,-118.354737
+601726,Caliber: Beta Academy District,13746,Caliber: Beta Academy,Richmond,60172613746,Contra Costa County,21,37.923207,-122.328546
+601728,Kings Valley Academy II District,14205,Kings Valley Academy II,Hanford,60172814205,Kings County,13,36.326394,-119.64964
+601729,Rocketship Rising Stars District,13979,Rocketship Rising Stars,San Jose,60172913979,Santa Clara County,11,37.291701,-121.833638
+601730,Horizon Charter District,3557,Horizon Charter,Lincoln,60173003557,Placer County,21,38.897666,-121.329708
+601731,ICEF View Park Preparatory High District,11358,ICEF View Park Preparatory High,Los Angeles,60173111358,Los Angeles County,11,33.990329,-118.33128
+601732,Accelerated District,3245,Accelerated,Los Angeles,60173203245,Los Angeles County,11,34.010811,-118.273723
+601733,Opportunities for Learning - Baldwin Park District,8715,Opportunities for Learning - Baldwin Park,Irwindale,60173308715,Los Angeles County,21,34.079093,-117.994061
+601734,CORE Charter District,8436,CORE Charter,Marysville,60173408436,Yuba County,22,39.153154,-121.590567
+601735,Los Feliz Charter Middle School for the Arts District,14296,Los Feliz Charter Middle School for the Arts,Los Angeles,60173514296,Los Angeles County,11,34.110857,-118.2455
+601736,Village Charter Academy District,13765,Village Charter Academy,Canoga Park,60173613765,Los Angeles County,11,34.203996,-118.60342
+601737,Bella Mente Montessori Academy District,13667,Bella Mente Montessori Academy,Vista,60173713667,San Diego County,21,33.189535,-117.278358
+601738,REACH Leadership STEAM Academy District,13116,REACH Leadership STEAM Academy,Riverside,60173813116,Riverside County,11,33.981016,-117.334659
+601740,South Sutter Charter District,11518,South Sutter Charter,East Nicolaus,60174011518,Sutter County,42,38.910848,-121.541436
+601741,Camino Nuevo Charter Academy #2 District,12738,Camino Nuevo Charter Academy #2,Los Angeles,60174112738,Los Angeles County,11,34.06855,-118.289063
+601742,Ararat Charter District,12437,Ararat Charter,Van Nuys,60174212437,Los Angeles County,11,34.19,-118.44683
+601743,Sky Mountain Charter District,11860,Sky Mountain Charter,Placerville,60174311860,El Dorado County,31,38.69971,-120.821871
+601744,Ballington Academy for the Arts and Sciences District,12184,Ballington Academy for the Arts and Sciences,El Centro,60174412184,Imperial County,13,32.790923,-115.571178
+601745,Insight School of California District,13167,Insight School of California,Simi Valley,60174513167,Ventura County,22,34.275884,-118.797998
+601746,Mission Academy District,14230,Mission Academy,Lancaster,60174614230,Los Angeles County,21,34.6662,-118.129748
+601747,North Oakland Community Charter District,8442,North Oakland Community Charter,Oakland,60174708442,Alameda County,11,37.833198,-122.276472
+601748,Dr. Lewis Dolphin Stallworth Sr. Charter District,12374,Dr. Lewis Dolphin Stallworth Sr. Charter,Stockton,60174812374,San Joaquin County,11,37.955557,-121.270144
+601751,Mojave River Academy - Marble City District,14291,Mojave River Academy - Marble City,Phelan,60175114291,San Bernardino County,31,34.426784,-117.565539
+601752,Hume Lake Charter District,11584,Hume Lake Charter,Hume,60175211584,Fresno County,43,36.787347,-118.917712
+601753,High Tech High District,8599,High Tech High,San Diego,60175308599,San Diego County,11,32.734858,-117.217531
+601754,Scholarship Prep District,14060,Scholarship Prep,Santa Ana,60175414060,Orange County,11,33.759245,-117.877982
+601755,Lodestar: A Lighthouse Community Charter Public District,14027,Lodestar: A Lighthouse Community Charter Public,Oakland,60175514027,Alameda County,11,37.733673,-122.17848
+601756,River Islands Technology Academy II District,13146,River Islands Technology Academy,Lathrop,60175613146,San Joaquin County,41,37.7996,-121.31912
+601757,Orange County Department of Education,14337,Suncoast Preparatory Academy,Mission Viejo,60175714337,Orange County,21,33.607211,-117.656738
+601758,El Sol Santa Ana Science and Arts Academy District,8755,El Sol Santa Ana Science and Arts Academy,Santa Ana,60175808755,Orange County,11,33.753822,-117.87007
+601759,University Preparatory District,11467,University Preparatory,Redding,60175911467,Shasta County,13,40.58738,-122.404562
+601760,Vista Condor Global Academy District,14372,Vista Condor Global Academy,Santa Ana,60176014372,Orange County,11,33.74934,-117.902941
+601761,APEX Academy District,12312,APEX Academy,Los Angeles,60176112312,Los Angeles County,11,34.095987,-118.313905
+601762,EPIC de Cesar Chavez District,13819,EPIC de Cesar Chavez,Tehachapi,60176213819,Kern County,32,35.131713,-118.446513
+601763,Classical Academy High District,11756,Classical Academy High,Escondido,60176311756,San Diego County,21,33.124273,-117.080631
+601764,KIPP Raices Academy District,12292,KIPP Raices Academy,Los Angeles,60176412292,Los Angeles County,21,34.023006,-118.156218
+601765,Rio Valley Charter District,12723,Rio Valley Charter,Lodi,60176512723,San Joaquin County,23,38.114159,-121.28709
+601766,Renaissance Arts Academy District,11314,Renaissance Arts Academy,Los Angeles,60176611314,Los Angeles County,11,34.10782,-118.241561
+601767,Yav Pem Suab Academy - Preparing for Future Charter District,12652,Yav Pem Suab Academy - Preparing for the Future Charter,Sacramento,60176712652,Sacramento County,11,38.488599,-121.525566
+601768,High Tech Elementary Explorer District,8602,High Tech Elementary Explorer,San Diego,60176808602,San Diego County,11,32.734606,-117.219838
+601769,City Language Immersion Charter District,13642,City Language Immersion Charter,Los Angeles,60176913642,Los Angeles County,11,34.04388,-118.324926
+601771,Voices College-Bound Language ACAD at Morgan Hill District,13875,Voices College-Bound Language Academy at Morgan Hill,Morgan Hill,60177113875,Santa Clara County,23,37.14948,-121.652661
+601773,Plumas Charter District,7601,Plumas Charter,Quincy,60177307601,Plumas County,33,39.93728,-120.93903
+601775,Futures High District,11070,Futures High,Sacramento,60177511070,Sacramento County,11,38.650964,-121.446083
+601776,California Montessori Project - Elk Grove Campus District,11727,California Montessori Project - Elk Grove Campus,Elk Grove,60177611727,Sacramento County,21,38.408758,-121.374256
+601777,ISANA Achernar Academy District,12925,ISANA Achernar Academy,Compton,60177712925,Los Angeles County,21,33.915948,-118.222469
+601778,Aspire University Charter District,14342,Aspire University Charter,Modesto,60177814342,Stanislaus County,12,37.618421,-121.003104
+601779,Vista Oaks Charter District,13821,Vista Oaks Charter School,Lodi,60177913821,San Joaquin County,41,38.128543,-121.308734
+601780,Gold Rush Charter District,11827,Gold Rush Charter,Sonora,60178011827,Tuolumne County,32,38.010522,-120.282751
+601781,SIATech District,11401,SIATech,Oceanside,60178111401,San Diego County,21,33.21585,-117.270131
+601782,Rocketship Mateo Sheedy Elementary District,11864,Rocketship Mateo Sheedy Elementary,San Jose,60178211864,Santa Clara County,11,37.321613,-121.88662
+601783,Mare Island Technology Academy District,8398,Mare Island Technology Academy,Vallejo,60178308398,Solano County,12,38.149611,-122.243224
+601784,Desert Sands Charter District,8714,Desert Sands Charter,Lancaster,60178408714,Los Angeles County,21,34.68482,-118.16396
+601785,PUC Lakeview Charter High District,12816,PUC Lakeview Charter High,Sylmar,60178512816,Los Angeles County,11,34.314435,-118.459941
+601786,The Language Academy of Sacramento District,11076,The Language Academy of Sacramento,Sacramento,60178611076,Sacramento County,11,38.548957,-121.451072
+601787,High Tech LA Middle District,14225,High Tech LA Middle,Van Nuys,60178714225,Los Angeles County,11,34.169428,-118.451326
+601788,Gompers Preparatory Academy District,12386,Gompers Preparatory Academy,San Diego,60178812386,San Diego County,11,32.716034,-117.091563
+601789,Valor Academy High District,13564,Valor Academy High,North Hills,60178913564,Los Angeles County,11,34.240426,-118.458188
+601790,Compass Charter Schools of Los Angeles District,14045,Compass Charter Schools of Los Angeles,Thousand Oaks,60179014045,Ventura County,12,34.155773,-118.830751
+601791,KIPP Ignite Academy District,13883,KIPP Ignite Academy,Los Angeles,60179113883,Los Angeles County,11,33.953617,-118.256231
+601792,Stockton Collegiate International Secondary District,12547,Stockton Collegiate International Secondary,Stockton,60179212547,San Joaquin County,11,37.953037,-121.285105
+601793,Rocketship Redwood City District,13923,Rocketship Redwood City,Redwood City,60179313923,San Mateo County,13,37.473202,-122.232183
+601794,Options for Youth-San Juan District,8578,Options for Youth-San Juan,Carmichael,60179408578,Sacramento County,21,38.648265,-121.328903
+601795,Extera Public School No. 2 District,13316,Extera Public School No. 2,Los Angeles,60179513316,Los Angeles County,11,34.025889,-118.2031
+601796,SAVA- Sacramento ACAD and Vocational Academy- EGUSD District,14368,SAVA - Sacramento Academic and Vocational Academy - EGUSD,Elk Grove,60179614368,Sacramento County,21,38.42659,-121.460901
+601797,Los Angeles Leadership Primary Academy District,12963,Los Angeles Leadership Primary Academy,Los Angeles,60179712963,Los Angeles County,11,34.078576,-118.211498
+601798,Math and Science College Preparatory District,13084,Math and Science College Preparatory,Los Angeles,60179813084,Los Angeles County,11,34.032305,-118.319015
+601799,Ednovate - Brio College Prep District,14104,Ednovate - Brio College Prep,Los Angeles,60179914104,Los Angeles County,11,34.053576,-118.255018
+601800,High Tech Middle Chula Vista District,12642,High Tech Middle Chula Vista,Chula Vista,60180012642,San Diego County,41,32.61671,-116.953238
+601801,Aspire Langston Hughes Academy District,12244,Aspire Langston Hughes Academy,Stockton,60180112244,San Joaquin County,11,37.975916,-121.27948
+601802,California Virtual Academy San Mateo District,11787,California Virtual Academy San Mateo,Simi Valley,60180211787,Ventura County,22,34.275884,-118.797998
+601803,Valley Oak Charter District,10709,Valley Oak Charter,Ojai,60180310709,Ventura County,21,34.437965,-119.283278
+601804,Extera Public District,12982,Extera Public,Los Angeles,60180412982,Los Angeles County,11,34.042193,-118.213317
+601805,California Virtual Academy @ San Diego District,10641,California Virtual Academy @ San Diego,Simi Valley,60180510641,Ventura County,22,34.275884,-118.797998
+601806,iLEAD Online District,14203,iLEAD Online,Acton,60180614203,Los Angeles County,41,34.492824,-118.195595
+601808,High Tech Middle District,11262,High Tech Middle,San Diego,60180811262,San Diego County,11,32.73539,-117.217841
+601809,San Diego Cooperative Charter District,10636,San Diego Cooperative Charter School,San Diego,60180910636,San Diego County,11,32.791306,-117.167324
+601810,California Virtual Academy at Sutter District,13698,California Virtual Academy at Sutter,Simi Valley,60181013698,Ventura County,22,34.275884,-118.797998
+601811,Cottonwood Creek Charter District,12647,Cottonwood Creek Charter,Cottonwood,60181112647,Shasta County,31,40.387285,-122.279321
+601812,REACH District,12469,REACH,Sebastopol,60181212469,Sonoma County,41,38.391349,-122.85045
+601813,Bellevue-Santa Fe Charter District,5868,Bellevue-Santa Fe Charter,San Luis Obispo,60181305868,San Luis Obispo County,41,35.192954,-120.714672
+601814,Barona Indian Charter District,10631,Barona Indian Charter,Lakeside,60181410631,San Diego County,41,32.942005,-116.855257
+601815,Leadership Public Schools - Hayward District,10737,Leadership Public Schools - Hayward,Hayward,60181510737,Alameda County,21,37.623253,-122.086792
+601816,Urban Montessori Charter District,13008,Urban Montessori Charter,Oakland,60181613008,Alameda County,11,37.786767,-122.187972
+601817,Harriet Tubman Village Charter District,3943,Harriet Tubman Village Charter,San Diego,60181703943,San Diego County,11,32.770107,-117.04967
+601818,High Tech High North County District,12064,High Tech High North County,San Marcos,60181812064,San Diego County,21,33.132371,-117.202227
+601820,Lemoore Online College Preparatory High District,14163,Lemoore Online College Preparatory High,Lemoore,60182014163,Kings County,41,36.291048,-119.82331
+601821,Aspire Antonio Maria Lugo Academy District,10891,Aspire Antonio Maria Lugo Academy,Huntington Park,60182110891,Los Angeles County,21,33.984291,-118.196845
+601822,Antioch Charter Academy II District,11984,Antioch Charter Academy II,Antioch,60182211984,Contra Costa County,21,38.00872,-121.823148
+601823,Gorman Learning Center San Bernardino/Santa Clarita District,14328,Gorman Learning Center San Bernardino/Santa Clarita,Santa Clarita,60182314328,Los Angeles County,21,34.419,-118.425028
+601824,Higher Learning Academy District,11916,Higher Learning Academy,Sacramento,60182411916,Sacramento County,11,38.650964,-121.446083
+601825,Opportunities for Learning - Duarte District,13697,Opportunities for Learning - Duarte,Duarte,60182513697,Los Angeles County,21,34.138835,-117.979469
+601826,Aspire Vanguard College Preparatory Academy District,12511,Aspire Vanguard College Preparatory Academy,Modesto,60182612511,Stanislaus County,12,37.618421,-121.003104
+601827,Bay Area Technology District,10720,Bay Area Technology,Oakland,60182710720,Alameda County,11,37.76573,-122.153923
+601828,Journey District,14358,Journey,Moreno Valley,60182814358,Riverside County,21,33.918667,-117.216865
+601829,Big Picture Educational Academy District,12427,Big Picture Educational Academy,Fresno,60182912427,Fresno County,11,36.730235,-119.808188
+601830,EJE Elementary Academy Charter District,11124,EJE Elementary Academy,El Cajon,60183011124,San Diego County,21,32.785007,-116.970311
+601831,Gilroy Prep (a Navigator School) District,12751,Gilroy Prep (a Navigator School),Gilroy,60183112751,Santa Clara County,23,37.014655,-121.56965
+601832,Kairos Public School Vacaville Academy District,13743,Kairos Public Schools,Vacaville,60183213743,Solano County,23,38.35257,-121.990523
+601833,PUC CALS Middle School and Early College High District,10890,PUC CALS Middle School and Early College High,Los Angeles,60183310890,Los Angeles County,11,34.137362,-118.187453
+601834,University High District,11911,University High,Fresno,60183411911,Fresno County,11,36.810318,-119.744292
+601835,Alliance Marine - Innovation and Techn 6-12 Complex District,13857,Alliance Marine - Innovation and Technology 6-12 Complex,Sun Valley,60183513857,Los Angeles County,11,34.2374,-118.393341
+601837,Camino Nuevo Charter Academy #4 District,12915,Camino Nuevo Charter Academy #4,Los Angeles,60183712915,Los Angeles County,11,34.076724,-118.265066
+601838,Steele Canyon High District,8594,Steele Canyon High,Spring Valley,60183808594,San Diego County,21,32.730122,-116.925152
+601839,Francophone Charter School of Oakland District,13942,Francophone Charter School of Oakland,Oakland,60183913942,Alameda County,11,37.751445,-122.157053
+601840,Thompson Peak Charter District,14096,Thompson Peak Charter,Susanville,60184014096,Lassen County,33,40.430055,-120.658447
+601841,JCS - Manzanita District,14353,JCS - Manzanita,La Mesa,60184114353,San Diego County,21,32.77577,-117.01399
+601842,San Carlos Charter Learning Center District,4029,San Carlos Charter Learning Center,San Carlos,60184204029,San Mateo County,21,37.509745,-122.285493
+601843,CORE Butte Charter District,11953,CORE Butte Charter,Chico,60184311953,Butte County,12,39.70594,-121.789123
+601844,New West Charter District,11208,New West Charter,Los Angeles,60184411208,Los Angeles County,11,34.03561,-118.455371
+601845,Sherwood Montessori District,12750,Sherwood Montessori,Chico,60184512750,Butte County,12,39.727532,-121.815963
+601846,TEAM Charter District,12900,TEAM Charter School,Stockton,60184612900,San Joaquin County,11,37.953584,-121.282801
+601847,Mirus Secondary District,11899,Mirus Secondary,Hesperia,60184711899,San Bernardino County,21,34.425773,-117.354799
+601848,Rocketship Academy Brilliant Minds District,13073,Rocketship Academy Brilliant Minds,San Jose,60184813073,Santa Clara County,11,37.354021,-121.821382
+601849,Crown Preparatory Academy District,12811,Crown Preparatory Academy,Los Angeles,60184912811,Los Angeles County,11,34.034951,-118.310623
+601850,Port of Los Angeles High District,10864,Port of Los Angeles High School,San Pedro,60185010864,Los Angeles County,11,33.740259,-118.282571
+601851,California Connections Academy Southern California District,10983,California Connections Academy Southern California,San Juan Capistrano,60185110983,Orange County,21,33.47822,-117.671056
+601852,ACE Esperanza Middle District,13740,ACE Esperanza Middle,San Jose,60185213740,Santa Clara County,11,37.327235,-121.845743
+601853,Wonderful College Prep Academy - Lost Hills District,14168,Wonderful College Prep Academy - Lost Hills,Lost Hills,60185314168,Kern County,42,35.612634,-119.684724
+601854,Antelope Valley Learning Academy District,12022,Antelope Valley Learning Academy,Palmdale,60185412022,Los Angeles County,21,34.558626,-118.043593
+601855,Audeo Charter II District,14028,Audeo Charter II,Oceanside,60185514028,San Diego County,21,33.180847,-117.291456
+601856,Fusion Charter District,13826,Fusion Charter,Turlock,60185613826,Stanislaus County,23,37.478666,-120.854145
+601857,Aspire Ollin University Preparatory Academy District,11655,Aspire Ollin University Preparatory Academy,Huntington Park,60185711655,Los Angeles County,21,33.990014,-118.22635
+601858,Ingenium Charter Middle District,13466,Ingenium Charter Middle,Winnetka,60185813466,Los Angeles County,11,34.203664,-118.569886
+601859,EJE Middle Academy District,12409,EJE Middle Academy,El Cajon,60185912409,San Diego County,21,32.785007,-116.970311
+601861,Gateway Middle District,12800,Gateway Middle,San Francisco,60186112800,San Francisco County,11,37.779437,-122.435995
+601862,Kepler Neighborhood District,13508,Kepler Neighborhood,Fresno,60186213508,Fresno County,11,36.738152,-119.796049
+601863,ISANA Cardinal Academy District,12942,ISANA Cardinal Academy,Sun Valley,60186312942,Los Angeles County,11,34.203991,-118.377576
+601865,Alliance College-Ready Middle Academy 4 District,12528,Alliance College-Ready Middle Academy 4,Los Angeles,60186512528,Los Angeles County,11,33.94777,-118.27423
+601866,New Los Angeles Charter District,12324,New Los Angeles Charter,Los Angeles,60186612324,Los Angeles County,11,34.04062,-118.35805
+601867,Synergy Quantum Academy District,12883,Synergy Quantum Academy,Los Angeles,60186712883,Los Angeles County,11,33.994066,-118.267978
+601868,Rising Sun Montessori District,13748,Rising Sun Montessori School,El Dorado Hills,60186813748,El Dorado County,41,38.62606,-121.060491
+601869,Learning Works District,12366,Learning Works,Pasadena,60186912366,Los Angeles County,12,34.147588,-118.092653
+601870,Options for Youth-San Bernardino District,12457,Options for Youth-San Bernardino,San Bernardino,60187012457,San Bernardino County,12,34.083002,-117.293501
+601871,Vista Charter Middle District,12776,Vista Charter Middle,Los Angeles,60187112776,Los Angeles County,11,34.073893,-118.278773
+601872,John Henry High District,13892,John Henry High,Richmond,60187213892,Contra Costa County,21,37.91302,-122.35499
+601873,The Education Corps District,13673,The Education Corps,Long Beach,60187313673,Los Angeles County,11,33.82337,-118.185391
+601875,MIT Griffin Academy Middle District,14264,MIT Griffin Academy Middle,Vallejo,60187514264,Solano County,12,38.132754,-122.248571
+601876,Charter School of San Diego District,3939,Charter School of San Diego,San Diego,60187603939,San Diego County,11,32.90275,-117.184148
+601877,Accelerated Achievement Academy District,10552,Accelerated Achievement Academy,Ukiah,60187710552,Mendocino County,33,39.161676,-123.20887
+601878,High Tech Middle Media Arts District,11155,High Tech Middle Media Arts,San Diego,60187811155,San Diego County,11,32.734606,-117.219838
+601879,BRIDGES Charter District,12617,BRIDGES Charter,Thousand Oaks,60187912617,Ventura County,12,34.212244,-118.856184
+601880,American Indian Public Charter II District,12013,American Indian Public Charter II,Oakland,60188012013,Alameda County,11,37.800157,-122.265641
+601881,ICEF View Park Preparatory Elementary District,8030,ICEF View Park Preparatory Elementary,Los Angeles,60188108030,Los Angeles County,11,33.994506,-118.331256
+601882,Fuente Nueva Charter District,10799,Fuente Nueva Charter,Arcata,60188210799,Humboldt County,33,40.879578,-124.100482
+601883,Endeavor College Preparatory Charter District,12536,Endeavor College Preparatory Charter,Los Angeles,60188312536,Los Angeles County,11,34.026867,-118.220003
+601884,California Virtual Academy at Kings District,11996,California Virtual Academy at Kings,Simi Valley,60188411996,Ventura County,22,34.275884,-118.797998
+601885,Magnolia Science Academy 5 District,12347,Magnolia Science Academy 5,Reseda,60188512347,Los Angeles County,11,34.20072,-118.530521
+601886,Learning Without Limits District,12054,Learning Without Limits,Oakland,60188612054,Alameda County,11,37.780364,-122.212057
+601887,Nea Community Learning Center District,12399,Nea Community Learning Center,Alameda,60188712399,Alameda County,21,37.779205,-122.287277
+601888,Discovery Charter District,10393,Discovery Charter,Tracy,60188810393,San Joaquin County,23,37.745973,-121.424345
+601889,Stella Middle Charter Academy District,11361,Stella Middle Charter Academy,Los Angeles,60188911361,Los Angeles County,11,34.017021,-118.344351
+601891,High Tech High International District,11138,High Tech High International,San Diego,60189111138,San Diego County,11,32.733177,-117.219085
+601892,Leadership Public Schools: Richmond District,11225,Leadership Public Schools: Richmond,Richmond,60189211225,Contra Costa County,21,37.933872,-122.361212
+601893,San Diego Virtual District,12767,San Diego Virtual,San Diego,60189312767,San Diego County,11,32.771399,-117.130282
+601894,Santiago Middle District,4450,Santiago Middle,Orange,60189404450,Orange County,12,33.795387,-117.797717
+601895,Forest Ranch Charter District,12233,Forest Ranch Charter,Forest Ranch,60189512233,Butte County,42,39.884674,-121.666917
+601896,Albert Einstein Academy Charter Middle District,11766,Albert Einstein Academies,San Diego,60189611766,San Diego County,11,32.71019,-117.13845
+601897,Scale Leadership Academy - East District,14356,Scale Leadership Academy - East,Chino,60189714356,San Bernardino County,13,33.98431,-117.689651
+601898,Vaughn Next Century Learning Center District,3426,Vaughn Next Century Learning Center,San Fernando,60189803426,Los Angeles County,11,34.28053,-118.422686
+601899,Animo Ralph Bunche Charter High District,11635,Animo Ralph Bunche Charter High,Los Angeles,60189911635,Los Angeles County,11,34.0127,-118.2439
+601900,Alliance Piera Barbaglia Shaheen HLT SRVs Academy District,12378,Alliance Piera Barbaglia Shaheen Health Services Academy,Los Angeles,60190012378,Los Angeles County,11,33.960292,-118.294314
+601901,East Palo Alto Academy District,11431,East Palo Alto Academy,East Palo Alto,60190111431,San Mateo County,21,37.462974,-122.131799
+601902,El Camino Real Charter High District,2977,El Camino Real Charter High,Woodland Hills,60190202977,Los Angeles County,11,34.169674,-118.642323
+601903,Children's Community Charter District,5717,Children's Community Charter,Paradise,60190305717,Butte County,31,39.783741,-121.579258
+601904,Larchmont Charter District,10870,Larchmont Charter School at Fairfax,West Hollywood,60190410870,Los Angeles County,21,34.093558,-118.361871
+601904,Larchmont Charter District,99997,Larchmont Charter School at LaFayette Park Place,,60190499997,,,,
+601904,Larchmont Charter District,99998,Larchmont Charter School at Hollygrove,,60190499998,,,,
+601904,Larchmont Charter District,99999,Larchmont Charter School at Selma,,60190499999,,,,
+601905,PUC Milagro Charter District,10835,PUC Milagro Charter,Los Angeles,60190510835,Los Angeles County,11,34.06661,-118.219813
+601906,Escuela Popular Accelerated Family Learning District,10666,Escuela Popular Accelerated Family Learning,San Jose,60190610666,Santa Clara County,11,37.369387,-121.831777
+601907,Downtown Value District,10522,Downtown Value,Los Angeles,60190710522,Los Angeles County,11,34.037323,-118.279404
+601908,River Oaks Academy District,12801,River Oaks Academy,Westlake Village,60190812801,Ventura County,12,34.155865,-118.830482
+601909,Northern United - Humboldt Charter District,14323,Northern United - Humboldt Charter,Eureka,60190914323,Humboldt County,33,40.758412,-124.147201
+601911,Academy for Academic Excellence District,7296,Academy for Academic Excellence,Apple Valley,60191107296,San Bernardino County,21,34.533297,-117.278362
+601912,Summit Public School K2 District,13776,Summit Public School K2,El Cerrito,60191213776,Contra Costa County,21,37.925961,-122.313368
+601913,Charter School of Morgan Hill District,10405,Charter School of Morgan Hill,Morgan Hill,60191310405,Santa Clara County,41,37.204896,-121.726371
+601914,California School of the Arts - San Gabriel Valley District,14083,California School of the Arts - San Gabriel Valley,Duarte,60191414083,Los Angeles County,21,34.136385,-117.968568
+601915,Odyssey Charter District,8012,Odyssey Charter,Altadena,60191508012,Los Angeles County,12,34.199331,-118.161272
+601916,Willits Charter District,8213,Willits Charter,Willits,60191608213,Mendocino County,33,39.396734,-123.34879
+601917,Our Community Charter District,10896,Our Community Charter School,Chatsworth,60191710896,Los Angeles County,11,34.253273,-118.563681
+601918,ICEF Vista Middle Academy District,11954,ICEF Vista Middle Academy,Los Angeles,60191811954,Los Angeles County,11,33.9946,-118.418951
+601919,Ballington Acad for Arts & Scis - San Bernardino District,13983,Ballington Acad for the Arts and Scis - San Bernardino,San Bernardino,60191913983,San Bernardino County,12,34.10103,-117.26854
+601920,KIPP Corazon Academy District,14108,KIPP Corazon Academy,South Gate,60192014108,Los Angeles County,21,33.95093,-118.218281
+601921,Voices College-Bound Lang Acad @ W. Contra Costa Co District,14227,Voices College-Bound Language Acad at W. Contra Costa Co,Richmond,60192114227,Contra Costa County,21,37.93397,-122.342121
+601922,Redwood Coast Montessori District,14287,Redwood Coast Montessori,Manila,60192214287,Humboldt County,33,40.845517,-124.169021
+601923,N.E.W. Academy of Science and Arts District,11333,N.E.W. Academy of Science and Arts,Los Angeles,60192311333,Los Angeles County,11,34.05906,-118.2667
+601924,Olivet Elementary Charter District,4738,Olivet Elementary Charter,Santa Rosa,60192404738,Sonoma County,21,38.464226,-122.80832
+601925,Anahuacalmecac International Univ Prep N. America District,12271,Anahuacalmecac International Univ Prep of N. America,Los Angeles,60192512271,Los Angeles County,11,34.085122,-118.181578
+601926,Alliance Dr. Olga Mohan High District,11633,Alliance Dr. Olga Mohan High,Los Angeles,60192611633,Los Angeles County,11,34.036873,-118.272128
+601927,Phoenix Charter Academy District,14159,Phoenix Charter Academy,Redding,60192714159,Shasta County,13,40.57571,-122.355073
+601928,Integrity Charter District,11237,Integrity Charter,National City,60192811237,San Diego County,21,32.67635,-117.10674
+601929,JCS - Mountain Oaks District,14231,JCS - Mountain Oaks,Encinitas,60192914231,San Diego County,21,33.04533,-117.27989
+601931,Ridgecrest Elem Acad for Language Music and Sci District,8706,Ridgecrest Elem Acad for Language Music and Sci,Ridgecrest,60193108706,Kern County,33,35.61737,-117.688563
+601932,Latino College Preparatory Academy District,10402,Latino College Preparatory Academy,San Jose,60193210402,Santa Clara County,11,37.359028,-121.816115
+601933,Primary Charter District,11425,Primary Charter,Tracy,60193311425,San Joaquin County,23,37.745973,-121.424345
+601934,Alliance Judy Ivie Burton Technology Academy High District,10867,Alliance Judy Ivie Burton Technology Academy High,Los Angeles,60193410867,Los Angeles County,11,33.944161,-118.278691
+601935,Mojave River Academy - National Trails District,14219,Mojave River Academy - National Trails,Colton,60193514219,San Bernardino County,21,34.05688,-117.309864
+601936,Novato Charter District,6035,Novato Charter,Novato,60193606035,Marin County,21,38.055624,-122.524808
+601937,Lighthouse Community Charter District,10408,Lighthouse Community Charter,Oakland,60193710408,Alameda County,11,37.73606,-122.19562
+601938,Trivium Charter School Voyage District,14237,Trivium Charter School Voyage,Santa Barbara,60193814237,Santa Barbara County,22,34.437982,-119.780616
+601939,Arts in Action Community Middle District,14061,Arts in Action Community Middle,Los Angeles,60193914061,Los Angeles County,21,34.023234,-118.165587
+601940,Grossmont Secondary District,14169,Grossmont Secondary,El Cajon,60194014169,San Diego County,21,32.807,-116.9631
+601941,Ipakanni Early College Charter District,12613,Ipakanni Early College Charter,Oroville,60194112613,Butte County,32,39.513346,-121.55311
+601942,Northcoast Preparatory and Performing Arts Academy District,11934,Northcoast Preparatory and Performing Arts Academy,Arcata,60194211934,Humboldt County,33,40.87252,-124.09665
+601943,Almond Acres Charter Academy District,13176,Almond Acres Charter Academy,Paso Robles,60194313176,San Luis Obispo County,13,35.616213,-120.662946
+601944,Equitas Academy #3 Charter District,13802,Equitas Academy #3 Charter,Los Angeles,60194413802,Los Angeles County,11,34.048425,-118.275853
+601945,Palmdale Aerospace Academy District,13029,Palmdale Aerospace Academy,Palmdale,60194513029,Los Angeles County,21,34.579378,-118.068604
+601946,Rise Kohyang High District,13974,Rise Kohyang High,Los Angeles,60194613974,Los Angeles County,11,34.062424,-118.282196
+601947,Empower Generations District,14042,Empower Generations,Lancaster,60194714042,Los Angeles County,21,34.687809,-118.146376
+601948,Vibrant Minds Charter School District,13858,Vibrant Minds Charter,Anaheim,60194813858,Orange County,11,33.850165,-117.923254
+601952,Today's Fresh Start-Compton District,11336,Today's Fresh Start-Compton,Los Angeles,60195211336,Los Angeles County,11,34.002345,-118.330397
+601953,Valley International Preparatory High District,14248,Valley International Preparatory High,Northridge,60195314248,Los Angeles County,11,34.221152,-118.543516
+601954,National University Academy Dual Language Institute District,14341,Dual Language Immersion North County,Vista,60195414341,San Diego County,21,33.172572,-117.220084
+601955,Lashon Academy District,13261,Lashon Academy,Van Nuys,60195513261,Los Angeles County,11,34.206437,-118.458063
+601956,Southern California Flex Academy District,14359,Southern California Flex Academy,Lucerne Valley,60195614359,San Bernardino County,42,34.41026,-116.907602
+601957,KIPP San Francisco College Preparatory District,13410,KIPP San Francisco College Preparatory,San Francisco,60195713410,San Francisco County,11,37.732324,-122.382591
+601958,Libertas College Preparatory Charter District,13902,Libertas College Preparatory,Los Angeles,60195813902,Los Angeles County,11,33.996712,-118.30947
+601959,Pacoima Charter Elementary District,3261,Pacoima Charter Elementary,Pacoima,60195903261,Los Angeles County,11,34.270359,-118.415591
+601960,Animo James B. Taylor Charter Middle District,12908,Animo James B. Taylor Charter Middle,Los Angeles,60196012908,Los Angeles County,11,33.935139,-118.260205
+601961,Pacific Coast Academy District,14103,Pacific Coast Academy,Poway,60196114103,San Diego County,13,32.939953,-117.030136
+601962,Oxford Preparatory Academy - South Orange County District,12855,Oxford Preparatory Academy - South Orange County,Mission Viejo,60196212855,Orange County,21,33.629195,-117.658375
+601963,Venture Academy District,10651,Venture Academy,Stockton,60196310651,San Joaquin County,11,37.908153,-121.230624
+601964,iQ Academy California-Los Angeles District,12477,iQ Academy California-Los Angeles,Simi Valley,60196412477,Ventura County,22,34.275884,-118.797998
+601965,Soleil Academy Charter District,14349,Soleil Academy Charter,Lynwood,60196514349,Los Angeles County,21,33.91686,-118.202057
+601966,Excelsior Charter School Corona-Norco District,14354,Excelsior Charter School Corona-Norco,Corona,60196614354,Riverside County,12,33.8649,-117.55523
+601967,LPS Oakland R & D Campus District,13155,LPS Oakland R & D Campus,Oakland,60196713155,Alameda County,11,37.760231,-122.163451
+601968,Ednovate - East College Prep District,13898,Ednovate - East College Prep,Los Angeles,60196813898,Los Angeles County,11,34.070118,-118.199661
+601969,John Adams Academy - El Dorado Hills District,14072,John Adams Academy - El Dorado Hills,El Dorado Hills,60196914072,El Dorado County,41,38.617515,-121.054848
+601970,Taylion High Desert Academy/Adelanto District,13723,Taylion High Desert Academy/Adelanto,Adelanto,60197013723,San Bernardino County,21,34.579681,-117.417814
+601971,Oakland Military InstituteCollege Preparatory ACAD District,10729,Oakland Military Institute College Preparatory Academy,Oakland,60197110729,Alameda County,11,37.829535,-122.272737
+601972,Woodland Star Charter District,11484,Woodland Star Charter,Sonoma,60197211484,Sonoma County,31,38.311007,-122.49707
+601973,Da Vinci Design District,12410,Da Vinci Design,El Segundo,60197312410,Los Angeles County,21,33.917966,-118.384252
+601974,Vox Collegiate of Los Angeles District,14221,Vox Collegiate of Los Angeles,Los Angeles,60197414221,Los Angeles County,11,33.959698,-118.294189
+601975,Clarksville Charter District,14165,Clarksville Charter School,El Dorado Hills,60197514165,El Dorado County,21,38.63362,-121.06709
+601976,CA Montessori Project-Shingle Springs Campus District,11580,California Montessori Project-Shingle Springs Campus,Shingle Springs,60197611580,El Dorado County,21,38.66962,-120.91125
+601977,Knowledge Enlightens You (KEY) Academy District,13351,Knowledge Enlightens You (KEY) Academy,Hayward,60197713351,Alameda County,21,37.676708,-122.071864
+601978,Stone Bridge District,10975,Stone Bridge,Napa,60197810975,Napa County,23,38.295608,-122.246042
+601979,Delta Elementary Charter District,12128,Delta Elementary Charter,Clarksburg,60197912128,Yolo County,41,38.417744,-121.528508
+601983,Camino Polytechnic District,12702,Camino Polytechnic,Camino,60198312702,El Dorado County,41,38.73287,-120.676569
+601986,John Adams Academy - Lincoln District,14071,John Adams Academy - Lincoln,Lincoln,60198614071,Placer County,41,38.855263,-121.293272
+601988,MAAC Community Charter District,10384,MAAC Community Charter,Chula Vista,60198810384,San Diego County,11,32.604521,-117.064289
+601989,All Tribes Charter District,10387,All Tribes Charter,Valley Center,60198910387,San Diego County,42,33.277772,-116.954262
+601990,California Virtual Academy @ San Joaquin District,13191,California Virtual Academy @ San Joaquin,Simi Valley,60199013191,Ventura County,22,34.275884,-118.797998
+601991,Dimensions Collaborative District,14308,Dimensions Collaborative,Escondido,60199114308,San Diego County,21,33.129492,-117.112154
+601992,Leonardo da Vinci Health Sciences Charter District,12425,Leonardo da Vinci Health Sciences Charter,Chula Vista,60199212425,San Diego County,11,32.621115,-117.048453
+601993,Voices College-Bound Language Academy District,12031,Voices College-Bound Language Academy,San Jose,60199312031,Santa Clara County,11,37.285177,-121.821749
+601995,Redwood Preparatory Charter District,12857,Redwood Preparatory Charter,Fortuna,60199512857,Humboldt County,33,40.57098,-124.13971
+601996,Yuba City Charter District,8658,Yuba City Charter,Yuba City,60199608658,Sutter County,13,39.12848,-121.61272
+601997,Monarch Learning Center District,8636,Monarch Learning Center,Redding,60199708636,Shasta County,13,40.537874,-122.388211
+601998,Five Keys Charter (SF Sheriff's) District,11407,Five Keys Charter School,San Bruno,60199811407,San Mateo County,21,37.627623,-122.459906
+601999,Three Rivers Charter District,12818,Three Rivers Charter,Fort Bragg,60199912818,Mendocino County,33,39.422057,-123.812086
+602000,Camino Nuevo High #2 District,13537,Camino Nuevo High #2,Los Angeles,60200013537,Los Angeles County,11,34.076483,-118.285667
+602001,NextGeneration STEAM Academy District,13850,NextGeneration STEAM Academy,Lathrop,60200113850,San Joaquin County,41,37.796327,-121.318829
+602002,Old Town Academy K-8 Charter District,12786,Old Town Academy K-8 Charter,San Diego,60200212786,San Diego County,11,32.746648,-117.189189
+602003,Natomas Charter District,7250,Natomas Charter,Sacramento,60200307250,Sacramento County,11,38.657259,-121.494229
+602004,Ednovate - Esperanza College Prep District,14117,Ednovate - Esperanza College Prep,East Los Angeles,60200414117,Los Angeles County,21,34.03922,-118.171921
+602005,Julian Charter District,8596,Julian Charter,Julian,60200508596,San Diego County,42,33.078784,-116.594864
+602006,Northwest Prep Charter District,11480,Northwest Prep Charter,Santa Rosa,60200611480,Sonoma County,21,38.466301,-122.772951
+602007,Pasadena Rosebud Academy District,11918,Pasadena Rosebud Academy,Altadena,60200711918,Los Angeles County,21,34.204949,-118.135016
+602008,Gateway College and Career Academy District,13730,Gateway College and Career Academy,Riverside,60200813730,Riverside County,11,33.97037,-117.378826
+602009,Sycamore Academy of Science and Cultural Arts District,12433,Sycamore Academy of Science and Cultural Arts,Wildomar,60200912433,Riverside County,21,33.584844,-117.247328
+602011,UNIV Preparation Charter SCH @ CSU Channel Islands District,10711,University Preparation Charter School at CSU Channel Islands,Camarillo,60201110711,Ventura County,13,34.228131,-119.047621
+602012,Golden Valley Charter District,10451,Golden Valley Charter,Ventura,60201210451,Ventura County,12,34.269434,-119.245727
+602013,Yu Ming Charter District,12901,Yu Ming Charter,Oakland,60201312901,Alameda County,11,37.84737,-122.28357
+602014,Nord Country District,11569,Nord Country,Chico,60201411569,Butte County,41,39.780766,-121.955264
+602015,King-Chavez Primary Academy District,5556,King-Chavez Primary Academy,San Diego,60201505556,San Diego County,11,32.709802,-117.126723
+602016,Oxford Day Academy District,14082,Oxford Day Academy,East Palo Alto,60201614082,San Mateo County,21,37.46586,-122.13281
+602017,KIPP Promesa Prep District,13877,KIPP Promesa Prep,Los Angeles,60201713877,Los Angeles County,11,34.037582,-118.201804
+602018,Barack Obama Charter District,12404,Barack Obama Charter,Los Angeles,60201812404,Los Angeles County,21,33.911106,-118.271082
+602019,Jardin de la Infancia District,10853,Jardin de la Infancia,Los Angeles,60201910853,Los Angeles County,11,34.03533,-118.262412
+602020,KIPP Los Angeles College Preparatory District,11324,KIPP Los Angeles College Preparatory,Los Angeles,60202011324,Los Angeles County,11,34.031487,-118.209743
+602021,Sierra Academy of Expeditionary Learning District,12922,Sierra Academy of Expeditionary Learning,Nevada City,60202112922,Nevada County,32,39.265188,-121.018916
+602022,Camarillo Academy of Progressive Education District,11873,Camarillo Academy of Progressive Education,Camarillo,60202211873,Ventura County,13,34.226452,-119.05952
+602023,Ingenium Charter District,12570,Ingenium Charter,Canoga Park,60202312570,Los Angeles County,11,34.212323,-118.61199
+602024,La Vida Charter District,11686,La Vida Charter,Willits,60202411686,Mendocino County,42,39.319376,-123.308694
+602025,Ivy Academia District,10845,Ivy Academia,Woodland Hills,60202510845,Los Angeles County,11,34.177774,-118.615299
+602026,Summit Public School: Tamalpais District,13986,Summit Public School: Tamalpais,Richmond,60202613986,Contra Costa County,21,37.977417,-122.327873
+602027,Antioch Charter Academy District,7493,Antioch Charter Academy,Antioch,60202707493,Contra Costa County,21,37.988338,-121.82677
+602030,KIPP Excelencia Community Preparatory District,13874,KIPP Excelencia Community Preparatory,Redwood City,60203013874,San Mateo County,21,37.478898,-122.205501
+602032,Global Education Academy 2 District,13789,Global Education Academy 2,Los Angeles,60203213789,Los Angeles County,11,34.041879,-118.325088
+602034,Gateway International District,13656,Gateway International,Sacramento,60203413656,Sacramento County,21,38.581839,-121.390972
+602035,Pacific Springs Charter District,14290,Pacific Springs Charter,Chula Vista,60203514290,San Diego County,11,32.622307,-116.976736
+602036,Eleanor Roosevelt Community Learning Center District,10445,Eleanor Roosevelt Community Learning Center,Visalia,60203610445,Tulare County,41,36.355531,-119.171722
+602037,Invictus Academy of Richmond District,14304,Invictus Academy of Richmond,El Cerrito,60203714304,Contra Costa County,21,37.915099,-122.302339
+602038,Luis Valdez Leadership Academy District,13815,Luis Valdez Leadership Academy,San Jose,60203813815,Santa Clara County,11,37.320398,-121.848558
+602039,Golden Eagle Charter District,12203,Golden Eagle Charter,Mount Shasta,60203912203,Siskiyou County,33,41.287041,-122.302687
+602040,NOVA Academy - Coachella District,12684,NOVA Academy - Coachella,Coachella,60204012684,Riverside County,21,33.667126,-116.189537
+602041,KIPP Vida Preparatory Academy District,13760,KIPP Vida Preparatory Academy,Los Angeles,60204113760,Los Angeles County,11,34.00339,-118.29545
+602042,Olive Grove Charter - Orcutt/Santa Maria District,14265,Olive Grove Charter - Orcutt/Santa Maria,Orcutt,60204214265,Santa Barbara County,22,34.864183,-120.419742
+602043,Ednovate - Legacy College Prep. District,14046,Ednovate - Legacy College Prep.,Santa Ana,60204314046,Orange County,11,33.759678,-117.847757
+602044,Desert Trails Preparatory Academy District,3819,Desert Trails Preparatory Academy,Adelanto,60204403819,San Bernardino County,21,34.511897,-117.417455
+602045,STEM Preparatory Elementary District,14315,STEM Preparatory Elementary,Los Angeles,60204514315,Los Angeles County,11,34.024324,-118.299618
+602046,Aspire Berkley Maynard Academy District,10727,Aspire Berkley Maynard Academy,Oakland,60204610727,Alameda County,11,37.845769,-122.283326
+602047,KIPP San Jose Collegiate District,12236,KIPP San Jose Collegiate,San Jose,60204712236,Santa Clara County,11,37.368573,-121.859654
+602048,Grace Hopper STEM Academy District,13719,Grace Hopper STEM Academy,Inglewood,60204813719,Los Angeles County,21,33.969089,-118.346054
+602049,High Tech Elementary Mesa District,14415,High Tech Elementary Mesa,San Diego,60204914415,San Diego County,11,32.815564,-117.181799
+602050,Citizens of the World Charter School Hollywood District,12708,Citizens of the World Charter School Hollywood,Los Angeles,60205012708,Los Angeles County,11,34.095233,-118.316913
+602051,Samueli Academy District,13076,Samueli Academy,Santa Ana,60205113076,Orange County,11,33.763181,-117.902467
+602052,Animo Leadership High District,8504,Animo Leadership High,Inglewood,60205208504,Los Angeles County,21,33.934767,-118.347984
+602053,Maria Montessori Charter Academy District,12302,Maria Montessori Charter Academy,Rocklin,60205312302,Placer County,41,38.822011,-121.2854
+602054,Thomas Edison Charter Academy District,10388,Thomas Edison Charter Academy,San Francisco,60205410388,San Francisco County,11,37.754495,-122.426418
+602055,Paragon Collegiate Academy District,12661,Paragon Collegiate Academy,Marysville,60205512661,Yuba County,22,39.15782,-121.58055
+602056,KIPP Philosophers Academy District,13002,KIPP Philosophers Academy,Los Angeles,60205613002,Los Angeles County,11,33.944619,-118.237022
+602057,STREAM Charter District,13790,STREAM Charter,Oroville,60205713790,Butte County,32,39.497611,-121.570668
+602058,Union Street Charter District,11590,Union Street Charter,Arcata,60205811590,Humboldt County,33,40.863118,-124.076059
+602059,Aspire Rosa Parks Academy District,11423,Aspire Rosa Parks Academy,Stockton,60205911423,San Joaquin County,11,37.93897,-121.252151
+602060,iLEAD Lancaster Charter District,13037,iLEAD Lancaster Charter,Lancaster,60206013037,Los Angeles County,21,34.671038,-118.126349
+602061,High Tech High Chula Vista District,12083,High Tech High Chula Vista,Chula Vista,60206112083,San Diego County,41,32.61601,-116.954276
+602062,Blue Ridge Academy District,14020,Blue Ridge Academy,Maricopa,60206214020,Kern County,42,35.05416,-119.403814
+602063,Ingenium Clarion Charter Middle District,14249,Ingenium Clarion Charter Middle,Los Angeles,60206314249,Los Angeles County,21,33.911106,-118.271082
+602064,Voices College-Bound Language ACAD at Mt. Pleasant District,13925,Voices College-Bound Language Academy at Mt. Pleasant,San Jose,60206413925,Santa Clara County,11,37.359028,-121.816115
+602065,Sacramento Valley Charter District,12962,Sacramento Valley Charter,West Sacramento,60206512962,Yolo County,13,38.575771,-121.540931
+602068,Temecula Valley Charter District,3648,Temecula Valley Charter,Winchester,60206803648,Riverside County,21,33.604677,-117.086103
+602069,Aspire Benjamin Holt Middle District,13963,Aspire Benjamin Holt Middle,Stockton,60206913963,San Joaquin County,11,38.038217,-121.272929
+602071,Chula Vista Learning Community Charter District,7649,Chula Vista Learning Community Charter,Chula Vista,60207107649,San Diego County,11,32.620234,-117.083149
+602072,Alder Grove Charter School 2 District,11593,Alder Grove Charter School 2,Eureka,60207211593,Humboldt County,33,40.799646,-124.16619
+602073,Highland Academy District,13150,Highland Academy,Beaumont,60207313150,Riverside County,21,33.931682,-116.983071
+602074,Aveson School of Leaders District,11929,Aveson School of Leaders,Altadena,60207411929,Los Angeles County,21,34.191976,-118.111955
+602075,Hawking S.T.E.A.M. Charter District,13113,Hawking S.T.E.A.M. Charter,Chula Vista,60207513113,San Diego County,11,32.642914,-117.088946
+602076,Environmental Charter High District,8718,Environmental Charter High,Lawndale,60207608718,Los Angeles County,21,33.882012,-118.355264
+602077,Camino Nuevo Elementary School #3 District,12805,Camino Nuevo Elementary #3,Los Angeles,60207712805,Los Angeles County,11,34.039275,-118.295534
+602078,Synergy Kinetic Academy District,12276,Synergy Kinetic Academy,Los Angeles,60207812276,Los Angeles County,11,34.015439,-118.248763
+602079,Diego Hills Central Public Charter District,14199,Diego Hills Central Public Charter,San Diego,60207914199,San Diego County,11,32.755964,-117.080349
+602080,Journey District,8542,Journey,Aliso Viejo,60208008542,Orange County,21,33.57033,-117.718132
+602081,Community Outreach Academy District,11200,Community Outreach Academy,McClellan,60208111200,Sacramento County,21,38.669983,-121.385273
+602082,PUC Inspire Charter Academy District,13750,PUC Inspire Charter Academy,Pacoima,60208213750,Los Angeles County,11,34.276469,-118.405418
+602083,University Preparatory Value High District,12699,University Preparatory Value High,Los Angeles,60208312699,Los Angeles County,11,34.04683,-118.280821
+602084,Temecula Preparatory District,8564,Temecula Preparatory,Winchester,60208408564,Riverside County,21,33.604272,-117.08577
+602085,Everest Value District,13756,Everest Value,Los Angeles,60208513756,Los Angeles County,11,34.061097,-118.295187
+602087,Rocketship Spark Academy District,13582,Rocketship Spark Academy,San Jose,60208713582,Santa Clara County,11,37.288381,-121.822487
+602088,Pathways Charter District,10685,Pathways Charter,Rohnert Park,60208810685,Sonoma County,21,38.354511,-122.710316
+602089,River Springs Charter District,11707,River Springs Charter,Temecula,60208911707,Riverside County,12,33.511711,-117.157617
+602090,Learning by Design Charter District,14271,Learning by Design Charter,Los Angeles,60209014271,Los Angeles County,11,33.975676,-118.318058
+602091,Grow Academy Shafter District,14186,Grow Academy Shafter,Shafter,60209114186,Kern County,31,35.49147,-119.286989
+602092,Alain Leroy Locke College Preparatory Academy District,12248,Alain Leroy Locke College Preparatory Academy,Los Angeles,60209212248,Los Angeles County,11,33.935167,-118.26879
+602093,Bert Corona Charter District,10852,Bert Corona Charter,Pacoima,60209310852,Los Angeles County,11,34.241122,-118.415898
+602094,St. HOPE Public School 7 District,11199,St. HOPE Public School 7,Sacramento,60209411199,Sacramento County,11,38.528326,-121.467018
+602095,Aspire Summit Charter Academy District,11809,Aspire Summit Charter Academy,Modesto,60209511809,Stanislaus County,21,37.60893,-120.95768
+602096,Animo Florence-Firestone Charter Middle District,14036,Animo Florence-Firestone Charter Middle,Los Angeles,60209614036,Los Angeles County,21,33.96309,-118.242601
+602097,High Tech Elementary Chula Vista District,12726,High Tech Elementary Chula Vista,Chula Vista,60209712726,San Diego County,41,32.61671,-116.953238
+602098,Literacy First Charter District,10374,Literacy First Charter,El Cajon,60209810374,San Diego County,21,32.787248,-116.952611
+602099,Ivy Bound Acad of Math Sci and Tech Charter Mid District,11856,Ivy Bound Acad of Math Sci and Tech Charter Mid,Sherman Oaks,60209911856,Los Angeles County,11,34.161427,-118.468684
+602101,Santa Rosa Academy District,11023,Santa Rosa Academy,Menifee,60210111023,Riverside County,21,33.67706,-117.1784
+602102,PUC Excel Charter Academy District,11657,PUC Excel Charter Academy,Los Angeles,60210211657,Los Angeles County,11,34.06661,-118.219813
+602103,City Arts and Leadership Academy,11408,City Arts and Tech High,San Francisco,60210311408,San Francisco County,11,37.719558,-122.425241
+602104,Escalon Charter Academy District,13059,Escalon Charter Academy,Escalon,60210413059,San Joaquin County,31,37.799032,-120.993533
+602105,Animo Westside Charter Middle District,12631,Animo Westside Charter Middle,Los Angeles,60210512631,Los Angeles County,11,33.9775,-118.41859
+602106,Museum District,7689,Museum,San Diego,60210607689,San Diego County,11,32.732133,-117.1624
+602108,San Diego Workforce Innovation High District,14037,San Diego Workforce Innovation High,National City,60210814037,San Diego County,21,32.68968,-117.08554
+602109,John Muir Charter District,8230,John Muir Charter,Nevada City,60210908230,Nevada County,32,39.2486,-121.016722
+602110,School for Entrepreneurship and Technology District,12640,School for Entrepreneurship and Technology,San Diego,60211012640,San Diego County,11,32.80707,-117.148872
+602111,Center for Advanced Learning District,12044,Center for Advanced Learning,Los Angeles,60211112044,Los Angeles County,11,34.01063,-118.25577
+602112,Aspire College Academy District,13676,Aspire College Academy,Oakland,60211213676,Alameda County,11,37.761387,-122.170537
+602113,Unity Middle College High District,14191,Unity Middle College High,Orange,60211314191,Orange County,12,33.7883,-117.87357
+602115,Public Safety Academy District,11108,Public Safety Academy of San Bernardino,San Bernardino,60211511108,San Bernardino County,12,34.09993,-117.25437
+602116,Bert Corona Charter High District,13897,Bert Corona Charter High,Pacoima,60211613897,Los Angeles County,11,34.271399,-118.404494
+602117,Gorman Learning Center District,8502,Gorman Learning Center,Redlands,60211708502,San Bernardino County,13,34.068244,-117.217014
+602118,Five Keys Independence HS (SF Sheriff's) District,12256,Five Keys Independence HS (SF Sheriff's),San Francisco,60211812256,San Francisco County,11,37.77716,-122.40217
+602119,Alliance Cindy and Bill Simon Technology ACAD High District,12567,Alliance Cindy and Bill Simon Technology Academy High,Los Angeles,60211912567,Los Angeles County,11,33.938635,-118.23874
+602120,Bay View Academy District,12864,Bay View Academy,Monterey,60212012864,Monterey County,22,36.60121,-121.866881
+602121,Richmond Charter Academy District,13164,Richmond Charter Academy,Richmond,60212113164,Contra Costa County,21,37.91138,-122.35502
+602122,Learning Choice Academy - Chula Vista District,14260,Learning Choice Academy - Chula Vista,Chula Vista,60212214260,San Diego County,11,32.652374,-116.965426
+602123,Aspire Alexander Twilight College Preparatory ACAD District,12449,Aspire Alexander Twilight College Preparatory Academy,Sacramento,60212312449,Sacramento County,21,38.610053,-121.407369
+602124,Career Technical Education Charter District,14297,Career Technical Education Charter,Fresno,60212414297,Fresno County,11,36.76093,-119.778675
+602126,Fenton Avenue Charter District,3000,Fenton Avenue Charter,Lake View Terrace,60212603000,Los Angeles County,11,34.280228,-118.390582
+602127,California Connections Academy North Bay District,13769,California Connections Academy North Bay,Middletown,60212713769,Lake County,42,38.755142,-122.614103
+602128,Equitas Academy 4 District,13970,Equitas Academy 4,Los Angeles,60212813970,Los Angeles County,11,34.058958,-118.281717
+602129,Greater San Diego Academy District,8302,Greater San Diego Academy,Jamul,60212908302,San Diego County,21,32.729,-116.8561
+602130,Edward B. Cole Academy District,11223,Edward B. Cole Academy,Santa Ana,60213011223,Orange County,11,33.744602,-117.864152
+602131,Central City Value District,11337,Central City Value,Los Angeles,60213111337,Los Angeles County,11,34.07513,-118.288368
+602132,Olive Grove Charter - Lompoc District,14218,Olive Grove Charter - Lompoc,Lompoc,60213214218,Santa Barbara County,23,34.651136,-120.456754
+602133,Achieve Charter School of Paradise Inc. District,11571,Achieve Charter School of Paradise Inc.,Chico,60213311571,Butte County,12,39.762378,-121.817175
+602134,IvyTech Charter District,12564,IvyTech Charter,Moorpark,60213412564,Ventura County,22,34.294341,-118.84391
+602135,PUC Early College ACAD for Leaders&Scholars(ECALS) District,12869,PUC Early College Academy for Leaders and Scholars (ECALS),Los Angeles,60213512869,Los Angeles County,11,34.102557,-118.239019
+602136,The O'Farrell Charter District,10056,The O'Farrell Charter,San Diego,60213610056,San Diego County,11,32.702116,-117.065832
+602137,Santa Clarita Valley International District,12191,Santa Clarita Valley International,Castaic,60213712191,Los Angeles County,21,34.450486,-118.624615
+602138,ACE Inspire Academy District,13852,ACE Inspire Academy,San Jose,60213813852,Santa Clara County,11,37.350865,-121.873001
+602140,KIPP Empower Academy District,12717,KIPP Empower Academy,Los Angeles,60214012717,Los Angeles County,11,33.96202,-118.28247
+602142,KIPP Iluminar Academy District,13657,KIPP Iluminar Academy,Los Angeles,60214213657,Los Angeles County,21,34.040179,-118.161378
+602143,Gabriella Charter District,10866,Gabriella Charter,Los Angeles,60214310866,Los Angeles County,11,34.079534,-118.257459
+602144,Alpha: Jose Hernandez District,13757,Alpha: Jose Hernandez,San Jose,60214413757,Santa Clara County,11,37.326597,-121.835143
+602145,N.E.W. Academy Canoga Park District,10838,N.E.W. Academy Canoga Park,Canoga Park,60214510838,Los Angeles County,11,34.206659,-118.598059
+602147,Empowering Possibilities International Charter District,13935,Empowering Possibilities International Charter,West Sacramento,60214713935,Yolo County,13,38.55449,-121.562395
+602148,Preuss School UCSD District,8303,The Preuss School UC San Diego,La Jolla,60214808303,San Diego County,11,32.882984,-117.222249
+602149,Village Charter District,11882,Village Charter,Santa Rosa,60214911882,Sonoma County,21,38.466301,-122.772951
+602150,Method Schools LA District,14259,Method Schools LA,Murrieta,60215014259,Riverside County,21,33.561334,-117.209205
+602152,KIPP King Collegiate High District,11893,KIPP King Collegiate High,San Lorenzo,60215211893,Alameda County,21,37.674465,-122.150454
+602153,Ezequiel Tafoya Alvarado Academy District,10951,Ezequiel Tafoya Alvarado Academy,Madera,60215310951,Madera County,23,36.987259,-120.068906
+602154,KIPP Scholar Academy District,13004,KIPP Scholar Academy,Los Angeles,60215413004,Los Angeles County,11,34.011172,-118.310075
+602155,Creative Arts Charter District,3982,Creative Arts Charter,San Francisco,60215503982,San Francisco County,11,37.77983,-122.435891
+602157,Tree of Life International Charter District,736,Tree of Life International Charter,Anderson,60215700736,Shasta County,22,40.465992,-122.332834
+602159,Connecting Waters Charter - East Bay District,14091,Connecting Waters Charter - East Bay,Union City,60215914091,Alameda County,21,37.60376,-122.02498
+602161,Live Oak Charter District,10431,Live Oak Charter,Petaluma,60216110431,Sonoma County,13,38.241053,-122.629769
+602162,Rocketship Futuro Academy District,14044,Rocketship Futuro Academy,Concord,60216214044,Contra Costa County,21,37.995744,-122.034956
+602163,Perseverance Preparatory District,14412,Perseverance Preparatory,San Jose,60216314412,Santa Clara County,11,37.338833,-121.879124
+602164,School of Unlimited Learning District,7497,School of Unlimited Learning,Fresno,60216407497,Fresno County,11,36.742404,-119.792701
+602165,Achieve Academy District,11561,Achieve Academy,Oakland,60216511561,Alameda County,11,37.782075,-122.226605
+602166,Sunrise Middle District,12865,Sunrise Middle,San Jose,60216612865,Santa Clara County,11,37.351096,-121.87187
+602167,Ambassador Phillip V. Sanchez II Public Charter District,14206,Ambassador Phillip V. Sanchez II Public Charter,Fresno,60216714206,Fresno County,11,36.72743,-119.8037
+602168,Coastal Grove Charter District,10500,Coastal Grove Charter,Arcata,60216810500,Humboldt County,33,40.877521,-124.099238
+602169,Summit Public School: Denali District,13485,Summit Public School: Denali,Sunnyvale,60216913485,Santa Clara County,12,37.39716,-122.015451
+602170,Connecting Waters Charter District,10698,Connecting Waters Charter,Waterford,60217010698,Stanislaus County,31,37.639504,-120.762857
+602171,Insight @ San Joaquin District,13952,Insight @ San Joaquin,Simi Valley,60217113952,Ventura County,22,34.275884,-118.797998
+602172,KIPP Bayview Academy District,11256,KIPP Bayview Academy,San Francisco,60217211256,San Francisco County,11,37.71956,-122.396611
+602173,Feaster (Mae L.) Charter District,858,Feaster (Mae L.) Charter,Chula Vista,60217300858,San Diego County,11,32.642065,-117.096907
+602174,iLead Agua Dulce District,14324,iLead Agua Dulce,Agua Dulce,60217414324,Los Angeles County,41,34.487756,-118.332441
+602175,Allegiance STEAM Academy - Thrive District,14235,Allegiance STEAM Academy - Thrive,Chino,60217514235,San Bernardino County,13,34.015961,-117.676819
+602176,Alliance Gertz-Ressler Richard Merkin 6-12 Complex District,10851,Alliance Gertz-Ressler Richard Merkin 6-12 Complex,Los Angeles,60217610851,Los Angeles County,11,34.03651,-118.282879
+602177,Blue Oak Charter District,8682,Blue Oak Charter,Chico,60217708682,Butte County,12,39.753353,-121.868982
+602178,Goethe International Charter District,12215,Goethe International Charter,Los Angeles,60217812215,Los Angeles County,11,33.98708,-118.419309
+602180,School of Arts and Enterprise District,11207,School of Arts and Enterprise,Pomona,60218011207,Los Angeles County,21,34.060236,-117.75056
+602181,Aveson Global Leadership Academy District,12028,Aveson Global Leadership Academy,Altadena,60218112028,Los Angeles County,21,34.1985,-118.15844
+602182,PUC Comm CHRTR Mid & PUC Comm CHRTR Early College High DIST,8027,PUC Comm Charter Mid and PUC Comm Charter Early College High,Lake View Terrace,60218208027,Los Angeles County,11,34.279855,-118.382648
+602183,Growth Public District,14124,Growth Public,Sacramento,60218314124,Sacramento County,21,38.56223,-121.3531
+602184,KIPP Navigate College Prep District,14282,KIPP Navigate College Prep,San Jose,60218414282,Santa Clara County,11,37.346058,-121.806249
+602185,King-Chavez Community High District,12195,King-Chavez Community High,San Diego,60218512195,San Diego County,11,32.71865,-117.16263
+602186,Citizens of the World Charter School Mar Vista District,13088,Citizens of the World Charter School Mar Vista,Los Angeles,60218613088,Los Angeles County,11,34.031977,-118.442633
+602187,Animo Compton Charter District,14269,Animo Compton Charter,Los Angeles,60218714269,Los Angeles County,21,33.911106,-118.271082
+602188,Paseo Grande Charter District,13882,Paseo Grande Charter,Sacramento,60218813882,Sacramento County,11,38.663046,-121.44697
+602189,Para Los Ni?os - Evelyn Thurman Gratts Primary District,12616,Para Los Ni?os - Evelyn Thurman Gratts Primary,Los Angeles,60218912616,Los Angeles County,11,34.056079,-118.264098
+602190,Alliance Susan and Eric Smidt Technology High District,12817,Alliance Susan and Eric Smidt Technology High,Los Angeles,60219012817,Los Angeles County,11,34.072208,-118.220433
+602191,Rocketship Los Suenos Academy District,12478,Rocketship Los Suenos Academy,San Jose,60219112478,Santa Clara County,11,37.344465,-121.85255
+602192,East Bay Innovation Academy District,13735,East Bay Innovation Academy,Oakland,60219213735,Alameda County,11,37.746032,-122.141364
+602193,Ventura Charter School of Arts and Global Education District,11829,Ventura Charter School of Arts and Global Education,Ventura,60219311829,Ventura County,12,34.301183,-119.291359
+602194,Magnolia Science Academy 3 District,12010,Magnolia Science Academy 3,Carson,60219412010,Los Angeles County,13,33.84912,-118.251
+602196,Aspire Slauson Academy Charter District,12950,Aspire Slauson Academy Charter,Los Angeles,60219612950,Los Angeles County,11,33.98717,-118.274751
+602197,Santa Ynez Valley Charter District,10398,Santa Ynez Valley Charter,Santa Ynez,60219710398,Santa Barbara County,32,34.61674,-120.083
+602199,Life Source International Charter District,12650,Life Source International Charter,Lancaster,60219912650,Los Angeles County,21,34.688284,-118.137277
+602200,Intellectual Virtues Academy of Long Beach District,13471,Intellectual Virtues Academy of Long Beach,Long Beach,60220013471,Los Angeles County,11,33.82301,-118.18724
+602201,Grove District,8292,Grove,Redlands,60220108292,San Bernardino County,13,34.053607,-117.216678
+602202,TEACH Academy of Technologies District,12622,TEACH Academy of Technologies,Los Angeles,60220212622,Los Angeles County,11,33.94378,-118.30932
+602203,North County Trade Tech High District,11970,North County Trade Tech High,Vista,60220311970,San Diego County,21,33.21301,-117.25526
+602204,River Montessori Elementary Charter District,12549,River Montessori Elementary Charter,Petaluma,60220412549,Sonoma County,41,38.22606,-122.58675
+602205,Magnolia Science Academy 6 District,12322,Magnolia Science Academy 6,Los Angeles,60220512322,Los Angeles County,11,34.04581,-118.317291
+602206,Granada Hills Charter District,3050,Granada Hills Charter,Granada Hills,60220603050,Los Angeles County,11,34.261475,-118.52446
+602207,Elite Academic Academy - Lucerne District,14250,Elite Academic Academy - Lucerne,Temecula,60220714250,Riverside County,12,33.500296,-117.161076
+602208,Oakland Charter Academy District,2893,Oakland Charter Academy,Oakland,60220802893,Alameda County,11,37.77517,-122.21318
+602209,Mojave River Academy - Oro Grande District,14262,Mojave River Academy - Oro Grande,Victorville,60220914262,San Bernardino County,21,34.50739,-117.39243
+602210,Kinetic Academy District,14050,Kinetic Academy,Huntington Beach,60221014050,Orange County,21,33.67629,-117.99014
+602211,Helix High District,2023,Helix High,La Mesa,60221102023,San Diego County,21,32.754868,-117.037595
+602212,Aspire Lionel Wilson College Preparatory Academy District,10459,Aspire Lionel Wilson College Preparatory Academy,Oakland,60221210459,Alameda County,11,37.729507,-122.179891
+602213,WISH Community District,14196,WISH Community,Los Angeles,60221314196,Los Angeles County,11,33.9682,-118.40494
+602214,Pivot Charter School Riverside District,14240,Pivot Charter School Riverside,Corona,60221414240,Riverside County,12,33.89039,-117.56465
+602215,Da Vinci RISE High District,14355,Da Vinci RISE High,El Segundo,60221514355,Los Angeles County,21,33.907393,-118.341508
+602216,Harvest Ridge Cooperative Charter District,12790,Harvest Ridge Cooperative Charter,Newcastle,60221612790,Placer County,41,38.87353,-121.136088
+602217,ACE Empower Academy District,12198,ACE Empower Academy,San Jose,60221712198,Santa Clara County,11,37.34846,-121.84351
+602218,PREPA TEC - Los Angeles District,13348,PREPA TEC - Los Angeles,Huntington Park,60221813348,Los Angeles County,21,33.966437,-118.230577
+602219,Animo Watts College Preparatory Academy District,11640,Animo Watts College Preparatory Academy,Los Angeles,60221911640,Los Angeles County,21,33.918038,-118.264132
+602221,Alpha: Blanca Alvarado District,12989,Alpha: Blanca Alvarado,San Jose,60222112989,Santa Clara County,11,37.326597,-121.835143
+602222,Summit Public School: Tahoma District,12625,Summit Public School: Tahoma,San Jose,60222212625,Santa Clara County,11,37.25332,-121.819895
+602225,Sherman Thomas STEM Academy District,14101,Sherman Thomas STEM Academy,Madera,60222514101,Madera County,13,36.984439,-120.066255
+602226,Ocean Charter District,10833,Ocean Charter,Los Angeles,60222610833,Los Angeles County,11,33.984167,-118.427567
+602227,American Indian Public High District,11563,AIMS College Prep High School,Oakland,60222711563,Alameda County,11,37.811395,-122.248763
+602228,Synergy Charter Academy District,10846,Synergy Charter Academy,Los Angeles,60222810846,Los Angeles County,11,34.014047,-118.259976
+602229,Everest Public High District,12395,Everest Public High,Redwood City,60222912395,San Mateo County,21,37.473597,-122.204194
+602230,YouthBuild Charter School of California District,12197,YouthBuild Charter School of California,Los Angeles,60223012197,Los Angeles County,11,34.03212,-118.266141
+602231,Collegiate Charter High School of Los Angeles District,13851,Collegiate Charter High School of Los Angeles,Los Angeles,60223113851,Los Angeles County,11,34.027172,-118.193248
+602232,High Tech Middle Mesa District,14427,High Tech Middle Mesa,San Diego,60223214427,San Diego County,11,32.815564,-117.181799
+602233,University Preparatory Academy Charter District,12016,University Preparatory Academy Charter,San Jose,60223312016,Santa Clara County,11,37.291038,-121.87394
+602234,Ross Valley Charter District,14064,Ross Valley Charter,Fairfax,60223414064,Marin County,21,37.98972,-122.590391
+602235,Oscar De La Hoya Animo Charter High District,11313,Oscar De La Hoya Animo Charter High,Los Angeles,60223511313,Los Angeles County,11,34.02321,-118.20342
+602236,Mission Preparatory District,12768,Mission Preparatory,San Francisco,60223612768,San Francisco County,11,37.75522,-122.40886
+602237,Camino Nuevo Charter Academy District,8508,Camino Nuevo Charter Academy,Los Angeles,60223708508,Los Angeles County,11,34.055536,-118.273602
+602238,Hayward Twin Oaks Montessori Charter District,13531,Hayward Twin Oaks Montessori School,Hayward,60223813531,Alameda County,21,37.6726,-122.0983
+602239,Wildflower Open Classroom District,12755,Wildflower Open Classroom,Chico,60223912755,Butte County,12,39.75835,-121.842015
+602240,Kipp Prize Preparatory Academy District,13778,Kipp Prize Preparatory Academy,San Jose,60224013778,Santa Clara County,11,37.337856,-121.839923
+602241,ISANA Octavia Academy District,12782,ISANA Octavia Academy,Los Angeles,60224112782,Los Angeles County,11,34.116096,-118.240912
+602242,Fenton Primary Center District,12019,Fenton Primary Center,Pacoima,60224212019,Los Angeles County,11,34.27646,-118.40344
+602243,Orange County Academy of Sciences and Arts District,688,Orange County Academy of Sciences and Arts,Laguna Niguel,60224300688,Orange County,21,33.53669,-117.69629
+602244,Great Valley Academy - Salida District,12945,Great Valley Academy - Salida,Modesto,60224412945,Stanislaus County,21,37.724205,-121.07838
+602245,Orange County Educational Arts Academy District,10992,Orange County Educational Arts Academy,Santa Ana,60224510992,Orange County,11,33.752618,-117.869165
+602246,Sierra Foothill Charter District,13041,Sierra Foothill Charter,Catheys Valley,60224613041,Mariposa County,42,37.42374,-120.101308
+602247,Guajome Learning Center District,12930,Guajome Learning Center,Vista,60224712930,San Diego County,21,33.229582,-117.249502
+602248,Audeo Charter School III District,14228,Audeo Charter School III,Escondido,60224814228,San Diego County,21,33.071596,-117.065668
+602249,Para Los Ni?os Charter District,10526,Para Los Ni?os Charter,Los Angeles,60224910526,Los Angeles County,11,34.035182,-118.237041
+602251,Downtown College Preparatory Middle District,13738,Downtown College Preparatory Middle,San Jose,60225113738,Santa Clara County,11,37.31614,-121.87308
+602252,Dixon Montessori Charter District,11473,Dixon Montessori Charter,Dixon,60225211473,Solano County,31,38.44876,-121.83213
+602253,Chrysalis Charter District,11800,Chrysalis Charter,Palo Cedro,60225311800,Shasta County,41,40.561241,-122.241781
+602254,Magnolia Science Academy 7 District,12235,Magnolia Science Academy 7,Northridge,60225412235,Los Angeles County,11,34.221647,-118.534031
+602255,Discovery Charter Preparatory #2 District,11889,Discovery Charter Preparatory School #2,Sylmar,60225511889,Los Angeles County,11,34.318989,-118.424839
+602256,Valiente College Preparatory Charter District,13895,Valiente College Preparatory Charter,South Gate,60225613895,Los Angeles County,21,33.95476,-118.20696
+602257,Animo Pat Brown District,10849,Animo Pat Brown,Los Angeles,60225710849,Los Angeles County,21,33.96395,-118.242603
+602258,Coastal Academy Charter District,14145,Coastal Academy Charter,Oceanside,60225814145,San Diego County,21,33.207426,-117.29272
+602259,KIPP Heritage Academy District,13763,KIPP Heritage Academy,San Jose,60225913763,Santa Clara County,11,37.286825,-121.832845
+602260,Sonoma Charter District,4112,Sonoma Charter,Sonoma,60226004112,Sonoma County,31,38.322439,-122.488091
+602261,John Adams Academy - Roseville District,12569,John Adams Academy - Roseville,Roseville,60226112569,Placer County,12,38.753768,-121.26631
+602262,Aspire Firestone Academy Charter District,12761,Aspire Firestone Academy Charter,South Gate,60226212761,Los Angeles County,21,33.951793,-118.189315
+602263,ICEF Innovation Los Angeles Charter District,12194,ICEF Innovation Los Angeles Charter,Los Angeles,60226312194,Los Angeles County,11,33.997377,-118.291876
+602264,Montague Charter Academy District,3194,Montague Charter Academy,Pacoima,60226403194,Los Angeles County,11,34.244481,-118.415022
+602265,CATCH Prep Charter High Inc. District,11312,CATCH Prep Charter High Inc.,Los Angeles,60226511312,Los Angeles County,11,34.00919,-118.32751
+602266,Alliance Ouchi-O'Donovan 6-12 Complex District,11641,Alliance Ouchi-O'Donovan 6-12 Complex,Los Angeles,60226611641,Los Angeles County,11,33.993479,-118.322093
+602267,Tree of Life Charter District,8521,Tree of Life Charter,Ukiah,60226708521,Mendocino County,33,39.167164,-123.207027
+602268,Rocklin Academy Gateway District,13641,Rocklin Academy Gateway,Rocklin,60226813641,Placer County,21,38.80389,-121.29861
+602269,Credo High District,12635,Credo High,Rohnert Park,60226912635,Sonoma County,21,38.321835,-122.681327
+602270,Citizens of the World Charter School Silver Lake District,13114,Citizens of the World Charter School Silver Lake,Los Angeles,60227013114,Los Angeles County,11,34.069277,-118.275479
+602271,Temecula International Academy District,14131,Temecula International Academy,Temecula,60227114131,Riverside County,21,33.546466,-117.125722
+602272,Tomorrow's Leadership Collaborative (TLC) Charter District,14331,Tomorrow's Leadership Collaborative (TLC) Charter,Orange,60227214331,Orange County,12,33.794463,-117.841227
+602274,Cabrillo Point Academy District,13913,Cabrillo Point Academy,Poway,60227413913,San Diego County,13,32.939953,-117.030136
+602275,McGill School of Success District,5339,McGill School of Success,San Diego,60227505339,San Diego County,11,32.72512,-117.129644
+602276,KIPP Bridge Academy District,11935,KIPP Bridge Academy,Oakland,60227611935,Alameda County,11,37.810199,-122.27924
+602277,ArchitectureConstruction & Engineer CHTR High(ACE) District,12465,Architecture Construction & Engineering Charter High (ACE),Camarillo,60227712465,Ventura County,13,34.206266,-119.07449
+602278,Twin Rivers Charter District,11519,Twin Rivers Charter,Yuba City,60227811519,Sutter County,13,39.164292,-121.623934
+602279,Alliance Renee and Meyer Luskin Academy High District,12848,Alliance Renee and Meyer Luskin Academy High,Los Angeles,60227912848,Los Angeles County,11,33.976628,-118.325831
+602280,King-Chavez Arts and Athletics Academy District,11390,King-Chavez Arts and Athletics Academy,San Diego,60228011390,San Diego County,11,32.709802,-117.126723
+602281,Yosemite-Wawona Elementary Charter District,13800,Yosemite-Wawona Elementary Charter,Wawona,60228113800,Mariposa County,43,37.54485,-119.64805
+602282,Valley Charter High District,8409,Valley College High,Modesto,60228208409,Stanislaus County,12,37.664175,-121.042599
+602284,OCSA District,8546,OCSA,Santa Ana,60228408546,Orange County,11,33.753875,-117.867918
+602285,SAVA - Sacramento Academic and Vocational Academy District,11951,SAVA - Sacramento Academic and Vocational Academy,Sacramento,60228511951,Sacramento County,21,38.64625,-121.48892
+602286,Rocketship Delta Prep District,14366,Rocketship Delta Prep,Antioch,60228614366,Contra Costa County,21,38.00585,-121.79716
+602287,Summit Preparatory Charter High District,11981,Summit Preparatory Charter High,Redwood City,60228711981,San Mateo County,13,37.486773,-122.210203
+602288,Elite Academic Academy - Mountain Empire District,14348,Elite Academic Academy - Mountain Empire,Temecula,60228814348,Riverside County,12,33.500296,-117.161076
+602289,Alliance Tennenbaum Family Technology High District,12572,Alliance Tennenbaum Family Technology High,Los Angeles,60228912572,Los Angeles County,11,34.102979,-118.239385
+602290,Discovery Charter District,2633,Discovery Charter,Chula Vista,60229002633,San Diego County,11,32.64186,-117.01632
+602291,Academia Avance Charter District,10895,Academia Avance Charter,Highland Park,60229110895,Los Angeles County,11,34.107778,-118.19825
+602292,Oakland Unity High District,1,Oakland Unity High,,60229200001,,,,
+602292,Oakland Unity High District,2,Oakland Unity Middle School,,60229200002,,,,
+602292,Oakland Unity High District,11351,Oakland Unity High,Oakland,60229211351,Alameda County,11,37.77383,-122.18458
+602293,Da Vinci Connect District,13702,Da Vinci Connect,Hawthorne,60229313702,Los Angeles County,21,33.919336,-118.375083
+602294,San Diego Mission Academy District,14433,San Diego Mission Academy,San Diego,60229414433,San Diego County,11,32.83587,-117.123827
+602295,Baypoint Preparatory Academy - San Diego District,14247,Baypoint Preparatory Academy - San Diego,San Marcos,60229514247,San Diego County,21,33.138598,-117.150055
+602296,Long Valley District,9067,Long Valley,Doyle,60229609067,Lassen County,42,40.045701,-120.123186
+602297,New Millennium Secondary District,12253,New Millennium Secondary,Gardena,60229712253,Los Angeles County,11,33.867695,-118.295449
+602298,Sparrow Academy District,14132,Sparrow Academy,La Mesa,60229814132,San Diego County,21,32.756092,-117.012789
+602299,Blue Oak Academy District,14157,Blue Oak Academy,Visalia,60229914157,Tulare County,41,36.299375,-119.242323
+602300,ICEF View Park Preparatory Middle District,10530,ICEF View Park Preparatory Middle,Los Angeles,60230010530,Los Angeles County,11,33.994506,-118.331256
+602301,Savant Preparatory Academy of Business District,14293,Savant Preparatory Academy of Business,San Bernardino,60230114293,San Bernardino County,12,34.145711,-117.247419
+602302,Holly Drive Leadership Academy District,8306,Holly Drive Leadership Academy,San Diego,60230208306,San Diego County,11,32.722722,-117.091953
+602303,Sacramento Charter High District,11190,Sacramento Charter High,Sacramento,60230311190,Sacramento County,11,38.556501,-121.466809
+602304,Paradise Charter Middle District,4403,Paradise Charter Middle,Paradise,60230404403,Butte County,31,39.773296,-121.597659
+602305,California Montessori Project - Capitol Campus District,11732,California Montessori Project - Capitol Campus,Sacramento,60230511732,Sacramento County,11,38.553699,-121.399535
+602306,Shasta Charter Academy District,8391,Shasta Charter Academy,Redding,60230608391,Shasta County,13,40.57618,-122.37262
+602307,Animo City of Champions Charter High District,14151,Animo City of Champions Charter High,Inglewood,60230714151,Los Angeles County,21,33.952524,-118.325036
+602308,W.E.B. DuBois Public Charter District,8472,W.E.B. DuBois Public Charter,Fresno,60230808472,Fresno County,11,36.706236,-119.800537
+602309,Inland Leaders Charter District,11884,Inland Leaders Charter,Yucaipa,60230911884,San Bernardino County,21,34.028958,-117.038336
+602310,Alum Rock Union Elementary,106,Aptitud Community Academy at Goss,San Jose,60231000106,Santa Clara County,11,37.35,-121.8319
+602311,Opportunities for Learning - Capistrano District,11221,Opportunities for Learning - Capistrano,San Juan Capistrano,60231111221,Orange County,21,33.498069,-117.659584
+602312,Rocklin Academy District,8762,Rocklin Academy,Rocklin,60231208762,Placer County,21,38.80289,-121.287302
+602313,Excelsior Charter District,5058,Excelsior Charter,Victorville,60231305058,San Bernardino County,21,34.473265,-117.266675
+602314,River Charter Schools Lighthouse Charter District,13849,River Charter Schools Lighthouse Charter,West Sacramento,60231413849,Yolo County,13,38.592382,-121.536934
+602315,Wonderful College Prep Academy District,12450,Wonderful College Prep Academy,Delano,60231512450,Kern County,41,35.78434,-119.212175
+602316,California Virtual Academy @ Sonoma District,11478,California Virtual Academy @ Sonoma,Simi Valley,60231611478,Ventura County,22,34.275884,-118.797998
+602317,Citrus Springs Charter District,14034,Citrus Springs Charter,Santa Ana,60231714034,Orange County,11,33.764921,-117.85065
+602318,Learning for Life Charter District,10560,Learning for Life Charter,Marina,60231810560,Monterey County,41,36.673484,-121.764393
+602319,Magnolia Science Academy 2 District,11842,Magnolia Science Academy 2,Van Nuys,60231911842,Los Angeles County,11,34.187102,-118.506941
+602320,Hollister Prep District,13525,Hollister Prep,Hollister,60232013525,San Benito County,32,36.847721,-121.411362
+602321,Aspen Meadow Public District,14004,Aspen Meadow Public,Fresno,60232114004,Fresno County,11,36.7884,-119.79432
+602322,Stella Elementary Charter Academy District,14281,Stella Elementary Charter Academy,Los Angeles,60232214281,Los Angeles County,11,34.031573,-118.352315
+602323,Learning Choice Academy District,11139,Learning Choice Academy,San Diego,60232311139,San Diego County,11,32.911816,-117.111238
+602324,Design Tech High District,13774,Design Tech High,Redwood City,60232413774,San Mateo County,13,37.532718,-122.263826
+602325,James Jordan Middle District,10893,James Jordan Middle,Winnetka,60232510893,Los Angeles County,11,34.21447,-118.5721
+602326,Entrepreneur High District,14321,Entrepreneur High,Highland,60232614321,San Bernardino County,21,34.134885,-117.222551
+602328,California Pacific Charter - San Diego District,13918,California Pacific Charter - San Diego,Newport Beach,60232813918,Orange County,13,33.666051,-117.869677
+602330,Pivot Charter School - North Bay District,14244,Pivot Charter School - North Bay,Santa Rosa,60233014244,Sonoma County,12,38.466,-122.728788
+602331,Community Roots Academy District,12651,Community Roots Academy,Laguna Niguel,60233112651,Orange County,21,33.535847,-117.696169
+602333,Woodward Leadership Academy District,13063,Woodward Leadership Academy,San Bernardino,60233313063,San Bernardino County,12,34.120975,-117.3268
+602334,Roseland Charter District,11178,Roseland Charter,Santa Rosa,60233411178,Sonoma County,12,38.42072,-122.735188
+602335,Aspire Juanita Tate Academy Charter District,12967,Aspire Juanita Tate Academy Charter,Los Angeles,60233512967,Los Angeles County,11,33.98717,-118.274751
+602336,Contra Costa School of Performing Arts District,14059,Contra Costa School of Performing Arts,Walnut Creek,60233614059,Contra Costa County,13,37.930362,-122.02454
+602337,Peak to Peak Mountain Charter District,13690,Peak to Peak Mountain Charter,Pine Mountain Club,60233713690,Kern County,43,34.857345,-119.209627
+602338,Northern Summit Academy Shasta District,13799,Northern Summit Academy Shasta,Anderson,60233813799,Shasta County,22,40.449774,-122.292343
+602339,HomeTech Charter District,4345,HomeTech Charter,Paradise,60233904345,Butte County,31,39.756518,-121.626318
+602340,one.Charter District,12462,one.Charter,Stockton,60234012462,San Joaquin County,11,37.909191,-121.23248
+602341,High Tech High Mesa District,14220,High Tech High Mesa,San Diego,60234114220,San Diego County,11,32.815564,-117.181799
+602342,Clayton Valley Charter High District,3940,Clayton Valley Charter High,Concord,60234203940,Contra Costa County,21,37.949703,-121.969046
+602343,Adelante Charter District,8628,Adelante Charter,Santa Barbara,60234308628,Santa Barbara County,13,34.424776,-119.679049
+602344,Animo Jefferson Charter Middle District,12690,Animo Jefferson Charter Middle,Los Angeles,60234412690,Los Angeles County,11,34.0127,-118.2439
+602345,Ednovate - USC Hybrid High College Prep District,13094,Ednovate - USC Hybrid High College Prep,Los Angeles,60234513094,Los Angeles County,11,34.013743,-118.29185
+602346,Oakland Unity Middle District,13887,Oakland Unity Middle,Oakland,60234613887,Alameda County,11,37.7592,-122.190749
+602348,SAVA- Sacramento ACAD and Vocational Academy- SCUSD District,14224,SAVA - Sacramento Academic and Vocational Academy - SCUSD,Sacramento,60234814224,Sacramento County,11,38.527218,-121.410315
+602350,e3 Civic High District,13288,e3 Civic High,San Diego,60235013288,San Diego County,11,32.708843,-117.154241
+602351,Para Los Ni?os Middle District,12361,Para Los Ni?os Middle,Los Angeles,60235112361,Los Angeles County,11,34.035522,-118.247791
+602352,Team Charter Academy District,14076,Team Charter Academy,Stockton,60235214076,San Joaquin County,11,37.953485,-121.283466
+602353,Visions In Education District,8283,Visions In Education,Carmichael,60235308283,Sacramento County,21,38.60923,-121.34692
+602354,California Pacific Charter- Los Angeles District,13904,California Pacific Charter - Los Angeles,Newport Beach,60235413904,Orange County,13,33.666051,-117.869677
+602356,Lighthouse Community Charter High District,10726,Lighthouse Community Charter High,Oakland,60235610726,Alameda County,11,37.73606,-122.19562
+602357,Connect Community Charter District,13060,Connect Community Charter,Redwood City,60235713060,San Mateo County,21,37.478296,-122.205706
+602358,Manzanita Middle District,8692,Manzanita Middle,Richmond,60235808692,Contra Costa County,21,37.936644,-122.337502
+602359,Options for Youth-Victorville Charter District,2619,Options for Youth-Victorville Charter,Victorville,60235902619,San Bernardino County,21,34.471019,-117.355012
+602361,Academia Moderna District,12455,Academia Moderna,Walnut Park,60236112455,Los Angeles County,21,33.96657,-118.229797
+602362,Alliance Patti & Peter Neuwirth Leadership Academy District,11632,Alliance Patti And Peter Neuwirth Leadership Academy,Los Angeles,60236211632,Los Angeles County,11,34.00141,-118.27373
+602363,Great Valley Academy District,12249,Great Valley Academy,Modesto,60236312249,Stanislaus County,12,37.685015,-121.011395
+602364,Darnall Charter District,1220,Darnall Charter,San Diego,60236401220,San Diego County,11,32.746997,-117.066966
+602365,Mountain Home Charter (Alternative) District,10251,Mountain Home Charter (Alternative),Oakhurst,60236510251,Madera County,32,37.348392,-119.641202
+602366,JCS - Pine Valley District,14333,JCS - Pine Valley,Pine Valley,60236614333,San Diego County,42,32.82199,-116.5286
+602367,Aspire APEX Academy District,12659,Aspire APEX Academy,Stockton,60236712659,San Joaquin County,11,37.958665,-121.28425
+602368,ICEF Vista Elementary Academy District,12222,ICEF Vista Elementary Academy,Los Angeles,60236812222,Los Angeles County,11,33.9946,-118.418951
+602369,KIPP Sol Academy District,13005,KIPP Sol Academy,Los Angeles,60236913005,Los Angeles County,21,34.040179,-118.161378
+602370,Alvina Elementary,127,Alvina Elementary Charter,Caruthers,60237000127,Fresno County,42,36.554114,-119.796111
+602371,Heritage Peak Charter District,11073,Heritage Peak Charter,Rio Linda,60237111073,Sacramento County,21,38.689884,-121.451107
+602372,Imagine Schools Riverside County District,12985,Imagine Schools Riverside County,Coachella,60237212985,Riverside County,21,33.67932,-116.20637
+602374,Health Sciences High District,12179,Health Sciences High and Middle College,San Diego,60237412179,San Diego County,11,32.750005,-117.110047
+602375,Empower Charter District,13803,Empower Language Academy,San Diego,60237513803,San Diego County,11,32.772253,-117.179714
+602376,Aspire Benjamin Holt College Preparatory Academy District,11341,Aspire Benjamin Holt College Preparatory Academy,Stockton,60237611341,San Joaquin County,11,38.037408,-121.27402
+602377,Marconi Learning Academy District,14360,Marconi Learning Academy,Sacramento,60237714360,Sacramento County,21,38.61749,-121.40399
+602378,Family Partnership Charter District,11789,Family Partnership Charter,Santa Maria,60237811789,Santa Barbara County,22,34.865926,-120.416933
+602379,Rocketship Fuerza Community Prep District,13747,Rocketship Fuerza Community Prep,San Jose,60237913747,Santa Clara County,11,37.35763,-121.8422
+602380,Russell Westbrook Why Not? Middle School,14033,Russell Westbrook Why Not? MS,Los Angeles,60238014033,Los Angeles County,11,33.998556,-118.308734
+602381,COM Collaborative Virtual - Keppel Partnership ACAD District,14092,Sage Oak Charter School- Keppel,Redlands,60238114092,San Bernardino County,13,34.038341,-117.153714
+602383,Carter G. Woodson Public Charter District,8697,Carter G. Woodson Public Charter,Fresno,60238308697,Fresno County,11,36.781069,-119.768568
+602384,KIPP Academy of Innovation District,13691,KIPP Academy of Innovation,Los Angeles,60238413691,Los Angeles County,21,34.018675,-118.182091
+602385,Redding School of the Arts District,14024,Redding School of the Arts,Redding,60238514024,Shasta County,41,40.59566,-122.32225
+602386,Diego Valley East Public Charter District,14301,Diego Valley East Public Charter,El Cajon,60238614301,San Diego County,21,32.80066,-116.93544
+602387,Magnolia Science Academy San Diego District,11393,Magnolia Science Academy San Diego,San Diego,60238711393,San Diego County,11,32.792083,-117.087512
+602388,California Connections Academy @ Ripon District,13152,California Connections Academy @ Ripon,Ripon,60238813152,San Joaquin County,23,37.74551,-121.134751
+602389,Arts In Action Community Charter District,12683,Arts In Action Community Charter,Los Angeles,60238912683,Los Angeles County,21,34.032264,-118.155111
+602390,San Jacinto Valley Academy District,7219,San Jacinto Valley Academy,San Jacinto,60239007219,Riverside County,22,33.794137,-116.960404
+602392,Escuela Popular/CTR for TRN and Careers FAM Lrng District,11449,Escuela Popular/Center for Training and Careers Family Lrng,San Jose,60239211449,Santa Clara County,11,37.369387,-121.831777
+602393,PUC Nueva Esperanza Charter Academy District,13947,PUC Nueva Esperanza Charter Academy,San Fernando,60239313947,Los Angeles County,21,34.287636,-118.438494
+602395,Crescent View South II District,14204,Crescent View South II,Fresno,60239514204,Fresno County,11,36.80935,-119.870365
+602396,Matrix for Success Academy District,14253,Matrix for Success Academy,Los Angeles,60239614253,Los Angeles County,11,34.012573,-118.257973
+602397,New Horizons Charter Academy District,13684,New Horizons Charter Academy,North Hollywood,60239713684,Los Angeles County,11,34.17883,-118.38355
+602398,Options for Youth San Gabriel District,7165,Options for Youth San Gabriel,San Gabriel,60239807165,Los Angeles County,21,34.10023,-118.11052
+602399,OCS - South District,14352,OCS - South,Pasadena,60239914352,Los Angeles County,12,34.170774,-118.161632
+602400,Inspire Charter School - North District,14025,Feather River Charter School,Meridian,60240014025,Sutter County,42,39.062855,-121.836938
+602401,Trivium Charter District,12941,Trivium Charter,Santa Maria,60240112941,Santa Barbara County,12,34.9329,-120.42345
+602403,Aspire Richmond Ca. College Preparatory Academy District,13890,Aspire Richmond Ca. College Preparatory Academy,Richmond,60240313890,Contra Costa County,21,37.977465,-122.326571
+602405,Lazear Charter Academy District,4288,Lazear Charter Academy,Oakland,60240504288,Alameda County,11,37.776157,-122.231822
+602406,Connecting Waters Charter School - Central Valley District,14327,Connecting Waters Charter School - Central Valley,Modesto,60240614327,Stanislaus County,12,37.666961,-120.954799
+602407,Alliance Morgan McKinzie High District,12259,Alliance Morgan McKinzie High,Los Angeles,60240712259,Los Angeles County,21,34.035552,-118.187903
+602408,Alma Fuerte Public District,14146,Laurie Keay,Altadena,60240814146,Los Angeles County,21,34.19768,-118.14865
+602410,Discovery Charter II District,13640,Discovery Charter School - Falcon,San Jose,60241013640,Santa Clara County,11,37.23529,-121.847
+602411,California Connections Academy@Central District,11819,California Connections Academy@Central,Alpaugh,60241111819,San Joaquin County,23,37.74551,-121.134751
+602412,Lemoore Middle College High District,11607,Lemoore Middle College High,Lemoore,60241211607,Kings County,41,36.291048,-119.82331
+602413,Wallis Annenberg High District,11365,Wallis Annenberg High,Los Angeles,60241311365,Los Angeles County,11,34.010811,-118.273723
+602414,River Oak Charter District,12026,River Oak Charter,Ukiah,60241412026,Mendocino County,33,39.146735,-123.2009
+602415,Bullis Charter District,11442,Bullis Charter,Los Altos,60241511442,Santa Clara County,21,37.39619,-122.11484
+602416,Da Vinci Science District,12208,Da Vinci Science,El Segundo,60241612208,Los Angeles County,21,33.917966,-118.384252
+602417,Aspire Inskeep Academy Charter District,12856,Aspire Inskeep Academy Charter,Los Angeles,60241712856,Los Angeles County,11,33.98717,-118.274751
+602418,Stockton Collegiate International Elementary District,12451,Stockton Collegiate International Elementary,Stockton,60241812451,San Joaquin County,11,37.953037,-121.285105
+602419,Century Community Charter District,10827,Century Community Charter,Inglewood,60241910827,Los Angeles County,21,33.952427,-118.353984
+602420,Walden Academy District,12983,Walden Academy,Willows,60242012983,Glenn County,32,39.524462,-122.207103
+602421,Stanislaus Alternative Charter District,13669,Stanislaus Alternative Charter,Modesto,60242113669,Stanislaus County,12,37.639463,-120.996202
+602423,Hardy Brown College Prep District,12796,Hardy Brown College Prep,San Bernardino,60242312796,San Bernardino County,12,34.10132,-117.29729
+602424,Nevada City School of the Arts District,11940,Nevada City School of the Arts,Nevada City,60242411940,Nevada County,41,39.252821,-121.134494
+602425,Equitas Academy Charter District,12479,Equitas Academy Charter,Los Angeles,60242512479,Los Angeles County,11,34.04483,-118.278441
+602426,Gateway High District,7725,Gateway High,San Francisco,60242607725,San Francisco County,11,37.78344,-122.437375
+602427,Mojave River Academy - Rockview Park District,14316,Mojave River Academy - Rockview Park,Hesperia,60242714316,San Bernardino County,21,34.42809,-117.3497
+602428,Ceiba College Preparatory Academy District,12189,Ceiba College Preparatory Academy,Watsonville,60242812189,Santa Cruz County,13,36.90456,-121.76038
+602429,High Tech Elementary District,13878,High Tech Elementary,San Diego,60242913878,San Diego County,11,32.73206,-117.21769
+602431,High Tech Elementary North County District,13517,High Tech Elementary North County,San Marcos,60243113517,San Diego County,21,33.13399,-117.20179
+602432,Fortune District,14070,Fortune,Sacramento,60243214070,Sacramento County,21,38.502331,-121.429069
+602433,Community Collaborative Charter District,11072,Community Collaborative Charter,McClellan,60243311072,Sacramento County,21,38.67098,-121.385618
+602434,Vista Heritage Global Academy District,13905,Vista Heritage Global Academy,Santa Ana,60243413905,Orange County,11,33.74934,-117.902941
+602435,Animo South Los Angeles Charter District,10836,Animo South Los Angeles Charter,Los Angeles,60243510836,Los Angeles County,21,33.93356,-118.308627
+602436,Julia Lee Performing Arts Academy District,14343,Julia Lee Performing Arts Academy,Lake Elsinore,60243614343,Riverside County,21,33.61946,-117.3104
+602437,Assurance Learning Academy District,13121,Assurance Learning Academy,Lancaster,60243713121,Los Angeles County,21,34.667356,-118.130549
+602439,The New School of San Francisco District,13939,The New School of San Francisco,San Francisco,60243913939,San Francisco County,11,37.80094,-122.414971
+602443,Escondido Charter High District,6493,Escondido Charter High,Escondido,60244306493,San Diego County,21,33.136539,-117.055166
+602444,Rocketship Mosaic Elementary District,12645,Rocketship Mosaic Elementary,San Jose,60244412645,Santa Clara County,11,37.329155,-121.85589
+602445,Aspire Port City Academy District,12106,Aspire Port City Academy,Stockton,60244512106,San Joaquin County,11,37.975343,-121.279273
+602446,Alliance Marc & Eva Stern Math and Science District,11642,Alliance Marc & Eva Stern Math and Science,Los Angeles,60244611642,Los Angeles County,11,34.063793,-118.170763
+602447,Capitol Collegiate Academy District,12810,Capitol Collegiate Academy,Sacramento,60244712810,Sacramento County,11,38.481075,-121.492635
+602448,Aspire Monarch Academy District,8440,Aspire Monarch Academy,Oakland,60244808440,Alameda County,11,37.742681,-122.167797
+602449,Wilder's Preparatory Academy Charter District,11296,Wilder's Preparatory Academy Charter,Inglewood,60244911296,Los Angeles County,21,33.974365,-118.357358
+602451,California Virtual Academy at Maricopa District,14255,California Virtual Academy at Maricopa,Simi Valley,60245114255,Ventura County,22,34.275884,-118.797998
+602452,Aspire River Oaks Charter District,10389,Aspire River Oaks Charter,Stockton,60245210389,San Joaquin County,11,38.02731,-121.292273
+602453,Alliance College-Ready Middle Academy 12 District,13403,Alliance College-Ready Middle Academy 12,Los Angeles,60245313403,Los Angeles County,11,33.99769,-118.27327
+602454,Grimmway Academy District,12948,Grow Academy Arvin,Arvin,60245412948,Kern County,31,35.21359,-118.834691
+602455,Puente Charter District,10525,Puente Charter,Los Angeles,60245510525,Los Angeles County,11,34.04137,-118.220201
+602456,Fenton Charter Leadership Academy District,13900,Fenton Charter Leadership Academy,Sun Valley,60245613900,Los Angeles County,11,34.23147,-118.366201
+602457,KIPP Summit Academy District,11159,KIPP Summit Academy,San Lorenzo,60245711159,Alameda County,21,37.674465,-122.150454
+602458,Oakland School for the Arts District,10461,Oakland School for the Arts,Oakland,60245810461,Alameda County,11,37.808105,-122.270641
+602459,Aurum Preparatory Academy District,14335,Aurum Preparatory Academy,Oakland,60245914335,Alameda County,11,37.75786,-122.1961
+602460,Yosemite Valley Charter District,14019,Yosemite Valley Charter,Fresno,60246014019,Fresno County,11,36.793663,-119.763754
+602461,Animo Venice Charter High District,10848,Animo Venice Charter High,Venice,60246110848,Los Angeles County,11,33.996524,-118.462977
+602462,ARISE High District,12040,ARISE High,Oakland,60246212040,Alameda County,11,37.77571,-122.22453
+602463,Rocky Point Charter District,11927,Rocky Point Charter,Redding,60246311927,Shasta County,13,40.619799,-122.402254
+602464,iEmpire Academy District,12557,iEmpire Academy,San Bernardino,60246412557,San Bernardino County,12,34.129175,-117.242248
+602465,Vista Real Charter High District,11537,Vista Real Charter High,Oxnard,60246511537,Ventura County,12,34.1988,-119.178931
+602467,Sherman Thomas Charter District,11160,Sherman Thomas Charter,Madera,60246711160,Madera County,23,36.98333,-120.06885
+602468,Valley Charter Middle District,12643,Valley Charter Middle,Van Nuys,60246812643,Los Angeles County,11,34.20048,-118.45255
+602469,Big Sur Charter District,12240,Big Sur Charter,Monterey,60246912240,Monterey County,22,36.61135,-121.89833
+602470,TEACH Tech Charter High District,13741,TEACH Tech Charter High,Los Angeles,60247013741,Los Angeles County,21,33.939465,-118.30877
+602471,Animo Inglewood Charter High District,10538,Animo Inglewood Charter High,Inglewood,60247110538,Los Angeles County,21,33.96032,-118.33161
+602472,Aspire Gateway Academy Charter District,12679,Aspire Gateway Academy Charter,South Gate,60247212679,Los Angeles County,21,33.951793,-118.189315
+602473,Western Sierra Collegiate Academy District,12390,Western Sierra Collegiate Academy,Rocklin,60247312390,Placer County,21,38.81238,-121.29807
+602475,New Los Angeles Charter Elementary District,13972,New Los Angeles Charter Elementary,Los Angeles,60247513972,Los Angeles County,11,34.0222,-118.3652
+602476,Aspire Vincent Shalvey Academy District,8323,Aspire Vincent Shalvey Academy,Stockton,60247608323,San Joaquin County,21,38.04604,-121.256681
+602477,Sebastopol Independent Charter District,5457,Sebastopol Charter School,Sebastopol,60247705457,Sonoma County,21,38.413735,-122.840692
+602478,Valley View Charter Prep District,13797,Valley View Charter Prep,Tracy,60247813797,San Joaquin County,41,37.667944,-121.324145
+602480,Olive Grove Charter - Santa Barbara District,14229,Olive Grove Charter - Santa Barbara,Santa Barbara,60248014229,Santa Barbara County,13,34.40143,-119.7241
+602481,KIPP Valiant Community Prep District,14087,KIPP Valiant Community Prep,Menlo Park,60248114087,San Mateo County,21,37.462552,-122.157713
+602482,iLEAD Hybrid District,13859,iLEAD Hybrid,Acton,60248213859,Los Angeles County,41,34.492824,-118.195595
+602483,MIT Academy District,10681,MIT Academy,Vallejo,60248310681,Solano County,12,38.149611,-122.243224
+602484,Equitas Academy #2 District,13145,Equitas Academy #2,Los Angeles,60248413145,Los Angeles County,11,34.05809,-118.285
+602485,Elite Public District,14376,Elite Public,Vallejo,60248514376,Solano County,12,38.147469,-122.245068
+602486,Sycamore Creek Community Charter District,14377,Sycamore Creek Community Charter,Huntington Beach,60248614377,Orange County,21,33.713318,-117.995509
+602487,Excel Academy Charter District,14407,Excel Academy Charter,Irvine,60248714407,Orange County,11,33.646982,-117.734673
+602488,California Connections Academy Central Coast District,14411,California Connections Academy Central Coast,New Cuyama,60248814411,Santa Barbara County,43,34.93224,-119.609234
+602489,Lashon Academy City District,14405,Lashon Academy City,Los Angeles,60248914405,Los Angeles County,11,34.026463,-118.324518
+602491,Pathways Academy Charter - Adult Education District,14406,Pathways Academy Charter School - Adult Education,San Marcos,60249114406,San Diego County,21,33.141534,-117.162495
+602493,Scholarship Prep - South Bay District,14408,Scholarship Prep - South Bay,Wilmington,60249314408,Los Angeles County,11,33.799923,-118.263561
+602494,Peak Prep Pleasant Valley District,14413,Peak Prep Pleasant Valley,Camarillo,60249414413,Ventura County,13,34.221763,-119.041389
+602495,Kidinnu Academy District,14409,Kidinnu Academy,El Cajon,60249514409,San Diego County,21,32.809278,-116.934835
+602496,KIPP Pueblo Unido District,14410,KIPP Pueblo Unido,Maywood,60249614410,Los Angeles County,21,33.990898,-118.196477
+602497,Watsonville Prep District,14404,Watsonville Prep,Watsonville,60249714404,Santa Cruz County,13,36.91039,-121.757621
+602498,The Learning Choice Academy - East County District,14437,The Learning Choice Academy - East County,La Mesa,60249814437,San Diego County,21,32.755682,-117.013531
+602500,Excel Academy Charter District,14435,Excel Academy Charter,Irvine,60250014435,Orange County,11,33.646982,-117.734673
+602501,Brookfield Engineering Science Technology Academy District,14440,Alejandro Soriano,Julian,60250114440,San Diego County,42,33.07879,-116.594865
+602502,Options For Youth - Duarte Inc District,14438,Options For Youth - Duarte Inc,City Of Industry,60250214438,Los Angeles County,21,34.035778,-117.935371
+602504,Equitas Academy 6 District,14441,Equitas Academy 6,Los Angeles,60250414441,Los Angeles County,11,34.062586,-118.286247
+602505,Sage Oak Charter - South District,14436,Sage Oak Charter School - South,Redlands,60250514436,San Bernardino County,13,34.038341,-117.153714
+602506,Shasta View Academy District,14418,Shasta View Academy,Redding,60250614418,Shasta County,13,40.603169,-122.325775
+602507,International School for Science and Culture District,14420,International School for Science and Culture,Costa Mesa,60250714420,Orange County,12,33.632826,-117.909356
+602508,Monarch River Academy District,14423,Monarch River Academy,Porterville,60250814423,Tulare County,23,36.058348,-118.966109
+602510,California Pacific Charter - Sonoma District,14414,California Pacific Charter - Sonoma,Guerneville,60251014414,Sonoma County,31,38.511386,-122.99679
+602511,Garvey/Allen Visual & Performing Arts Academy for STEM DIST,14421,Tiffany Gilmore,Moreno Valley,60251114421,Riverside County,41,33.916678,-117.269583
+602512,Heartwood Charter District,14416,Heartwood Charter,Petaluma,60251214416,Sonoma County,23,38.278741,-122.706194
+602513,Mission Vista Academy District,14419,Mission Vista Academy,Beaumont,60251314419,Riverside County,21,33.948727,-116.97593
+602515,Vista Horizon Global Academy District,14424,Vista Horizon Global Academy,Los Angeles,60251514424,Los Angeles County,11,34.053416,-118.30496
+602516,Granite Mountain Charter District,14425,Granite Mountain Charter,Lucerne Valley,60251614425,San Bernardino County,42,34.41026,-116.907602
+602517,California Connections Academy Monterey Bay District,14429,California Connections Academy Monterey Bay,Scotts Valley,60251714429,Santa Cruz County,22,37.04265,-122.027769
+602518,Sycamore Academy of Science and Cultural Arts Chino VLY DIST,14426,Sycamore Academy of Science and Cultural Arts - Chino Valley,Chino Hills,60251814426,San Bernardino County,21,33.969065,-117.715561
+602520,Lake View Charter District,14428,Lake View Charter School,Orland,60252014428,Glenn County,41,39.769354,-122.159213
+602521,Compass Charter School of Yolo District,14432,Compass Charter School of Yolo,Thousand Oaks,60252114432,Ventura County,12,34.155773,-118.830751
+602522,Equitas Academy 5 District,14430,Equitas Academy 5,Los Angeles,60252214430,Los Angeles County,11,34.058933,-118.281713
+602523,Hayward Collegiate Charter District,14443,Hayward Collegiate Charter,Hayward,60252314443,Alameda County,21,37.648338,-122.082178
+602524,Cottonwood District,14444,Cottonwood,El Dorado Hills,60252414444,El Dorado County,21,38.629242,-121.071933
+602528,Open Door Charter District,14477,Open Door Charter,Salinas,60252814477,Monterey County,12,36.65341,-121.63976
+602529,We the People High District,14478,We the People High,Long Beach,60252914478,Los Angeles County,11,33.7879,-118.189827
+602530,Griffin Academy High District,14479,Griffin Academy High,Vallejo,60253014479,Solano County,12,38.132754,-122.248571
+602531,Citizens of the World Charter School 5 District,14480,Citizens of the World Charter School West Valley,Reseda,60253114480,Los Angeles County,11,34.197239,-118.557577
+602532,Aspire Stockton 6-12 Secondary Academy District,14481,Aspire Stockton 6-12 Secondary Academy,Stockton,60253214481,San Joaquin County,11,37.92872,-121.261782
+602533,KIPP Esperanza High District,14482,KIPP Esperanza High,East Palo Alto,60253314482,San Mateo County,21,37.467229,-122.132239
+602534,Aspire Stockton TK-5 Elementary Academy District,14483,Aspire Stockton TK-5 Elementary Academy,Stockton,60253414483,San Joaquin County,11,37.93897,-121.252151
+602538,Endeavor Charter District,14487,Endeavor Charter,Fresno,60253814487,Fresno County,21,36.808158,-119.807526
+602539,OCASA College Prep District,14488,OCASA College Prep,San Juan Capistrano,60253914488,Orange County,21,33.504809,-117.662508
+602540,Ednovate College Prep 7 District,14489,Ednovate College Prep 7,Los Angeles,60254014489,Los Angeles County,11,34.048723,-118.257507
+602541,American River Collegiate Academy District,14490,American River Collegiate Academy,Orangevale,60254114490,Sacramento County,21,38.706828,-121.225964
+602542,Pacific Collegiate Charter District,8363,Pacific Collegiate Charter,Santa Cruz,60254208363,Santa Cruz County,13,36.960583,-122.059848
+602543,Agnes J. Johnson Charter District,6363,Agnes J. Johnson Charter,Weott,60254306363,Humboldt County,43,40.320179,-123.924236
+602544,Tehama eLearning Academy District,10699,Tehama eLearning Academy,Red Bluff,60254410699,Tehama County,32,40.178946,-122.246661
+602545,Voices College Bound Language Academy at Stockton District,14509,Voices College Bound Language Academy at Stockton,Stockton,60254514509,San Joaquin County,11,37.954601,-121.286887
+602546,El Rio Community District,14510,El Rio Community,Los Angeles,60254614510,Los Angeles County,11,34.077957,-118.215661
+602547,Invictus Leadership Academy District,14511,Invictus Leadership Academy,Los Angeles,60254714511,Los Angeles County,11,33.978139,-118.309221
+602548,Clovis Global Academy District,14512,Clovis Global Academy,Clovis,60254814512,Fresno County,21,36.807231,-119.708167
+602551,Banta Charter District,14514,Banta Charter,Tracy,60255114514,San Joaquin County,41,37.7564,-121.3745
+602552,Irvine International Academy District,14522,Irvine International Academy,Irvine,60255214522,Orange County,11,33.695111,-117.77858
+602553,KIPP Poder Public District,14581,KIPP Poder Public,Los Angeles,60255314581,Los Angeles County,21,34.020734,-118.141919
+602557,Environmental Charter High - Gardena District,14580,Environmental Charter High - Gardena,Gardena,60255714580,Los Angeles County,21,33.88223,-118.3553
+602558,Entrepreneur High Fontana District,14586,Entrepreneur High Fontana,Fontana,60255814586,San Bernardino County,21,34.099713,-117.439745
+602559,Aspen Ridge Public District,14587,Aspen Ridge Public,Fresno,60255914587,Fresno County,11,36.787527,-119.78555
+602560,Audeo Valley Charter District,14578,Audeo Valley Charter,Moreno Valley,60256014578,Riverside County,21,33.936201,-117.187214
+602562,Bostonia Global District,14589,Bostonia Global,El Cajon,60256214589,San Diego County,21,32.809162,-116.931258
+602563,KIPP Stockton,14579,KIPP Stockton,Stockton,60256314579,San Joaquin County,11,37.922239,-121.297191
+602565,Yuba River Charter District,11992,Yuba River Charter,Grass Valley,60256511992,Nevada County,32,39.226516,-121.082913
+602566,Riverside Preparatory District,11863,Riverside Preparatory,Oro Grande,60256611863,San Bernardino County,21,34.598422,-117.33235
+602567,Citizens Of The World Charter School 4 District,14582,Citizens of the World Charter School East Valley,Valley Village,60256714582,Los Angeles County,11,34.171488,-118.395108
+602570,Achieve Charter School of Chico District,14596,Achieve Charter School of Chico,Chico,60257014596,Butte County,12,39.762378,-121.817175
+602700,Anderson Union High,10671,Anderson New Technology High,Anderson,60270010671,Shasta County,22,40.452234,-122.300444
+602760,Antelope Elementary,14049,Lassen-Antelope Volcanic Academy (LAVA),Red Bluff,60276014049,Tehama County,41,40.18385,-122.245471
+602820,Antelope Valley Union High,13154,Academies of the Antelope Valley,Quartz Hill,60282013154,Los Angeles County,21,34.6588,-118.2432
+603030,Northern Humboldt Union High,10800,Six Rivers Charter High,Arcata,60303010800,Humboldt County,33,40.876422,-124.08907
+603180,Armona Union Elementary,11283,Crossroads Charter Academy,Hanford,60318011283,Kings County,13,36.32702,-119.65166
+603480,Auburn Union Elementary,13170,Alta Vista Community Charter,Auburn,60348013170,Placer County,31,38.908283,-121.063723
+603750,Ballico-Cressey Elementary,344,Ballico-Cressey Community Charter,Ballico,60375000344,Merced County,41,37.454634,-120.700181
+605240,Black Oak Mine Unified,12774,American River Charter,Georgetown,60524012774,El Dorado County,42,38.912286,-120.827945
+606270,Buckeye Union Elementary,10767,Charter Montessori Valley View Campus,El Dorado Hills,60627010767,El Dorado County,41,38.625709,-121.047999
+606270,Buckeye Union Elementary,14309,Buckeye Union Mandarin Immersion Charter,El Dorado Hills,60627014309,El Dorado County,41,38.66418,-121.05913
+606570,Burton Elementary,11526,Summit Charter Academy,Porterville,60657011526,Tulare County,23,36.0626,-119.0623
+607140,Cambrian,652,Fammatre Elementary,San Jose,60714000652,Santa Clara County,11,37.271438,-121.92516
+607140,Cambrian,653,Farnham Charter,San Jose,60714000653,Santa Clara County,11,37.260736,-121.943909
+607140,Cambrian,654,Price Charter Middle,San Jose,60714000654,Santa Clara County,11,37.273341,-121.925693
+607140,Cambrian,655,Sartorette Charter,San Jose,60714000655,Santa Clara County,11,37.260579,-121.910414
+607200,Campbell Union,657,Blackford Elementary,San Jose,60720000657,Santa Clara County,11,37.299,-121.9219
+607200,Campbell Union,663,Capri Elementary,Campbell,60720000663,Santa Clara County,21,37.2661,-121.9646
+607200,Campbell Union,664,Castlemont Elementary,Campbell,60720000664,Santa Clara County,11,37.3008,-121.947
+607200,Campbell Union,667,Forest Hill Elementary,San Jose,60720000667,Santa Clara County,21,37.276061,-121.982489
+607200,Campbell Union,670,Lynhaven Elementary,San Jose,60720000670,Santa Clara County,11,37.3113,-121.9608
+607200,Campbell Union,671,Marshall Lane Elementary,Saratoga,60720000671,Santa Clara County,21,37.2626,-121.9969
+607200,Campbell Union,672,Monroe Middle,San Jose,60720000672,Santa Clara County,11,37.3082,-121.9445
+607200,Campbell Union,674,Rolling Hills Middle,Los Gatos,60720000674,Santa Clara County,21,37.2655,-121.9868
+607200,Campbell Union,7427,Sherman Oaks Elementary,San Jose,60720007427,Santa Clara County,11,37.3098,-121.9252
+607200,Campbell Union,11447,Village,Campbell,60720011447,Santa Clara County,21,37.2644,-121.9647
+607200,Campbell Union,14280,Campbell School of Innovation,Campbell,60720014280,Santa Clara County,21,37.283562,-121.956222
+608130,Ceres Unified,11487,Whitmore Charter School of Art & Technology,Ceres,60813011487,Stanislaus County,41,37.584261,-120.933864
+608130,Ceres Unified,11488,Whitmore Charter High,Ceres,60813011488,Stanislaus County,41,37.584261,-120.933864
+608340,Chicago Park Elementary,13003,Chicago Park Community Charter,Grass Valley,60834013003,Nevada County,41,39.144367,-120.977482
+608700,Cinnabar Elementary,884,Cinnabar Charter,Petaluma,60870000884,Sonoma County,23,38.258891,-122.664908
+609030,Clovis Unified,12267,Clovis Online Charter,Clovis,60903012267,Fresno County,21,36.834947,-119.685554
+610620,Davis Joint Unified,12422,Da Vinci Charter Academy,Davis,61062012422,Yolo County,23,38.5526,-121.7338
+610890,Delano Union Elementary,1208,Cecil Avenue Math and Science Academy,Delano,61089001208,Kern County,23,35.775,-119.2386
+610890,Delano Union Elementary,1209,Del Vista Math and Science Academy,Delano,61089001209,Kern County,23,35.7669,-119.2335
+610890,Delano Union Elementary,12512,Nueva Vista Language Academy,Delano,61089012512,Kern County,23,35.7611,-119.2555
+611040,Denair Unified,10438,Denair Charter Academy,Denair,61104010438,Stanislaus County,23,37.526958,-120.802092
+611040,Denair Unified,13930,Denair Elementary Charter Academy,Denair,61104013930,Stanislaus County,23,37.526586,-120.800395
+611110,Desert Sands Unified,1231,Palm Desert Charter Middle,Palm Desert,61111001231,Riverside County,13,33.734174,-116.370513
+611110,Desert Sands Unified,1234,George Washington Charter,Palm Desert,61111001234,Riverside County,13,33.71636,-116.372827
+611610,Dunham Elementary,12748,Dunham Charter,Petaluma,61161012748,Sonoma County,41,38.320819,-122.757965
+612030,El Centro Elementary,12660,Imperial Valley Home School Academy,El Centro,61203012660,Imperial County,13,32.793104,-115.58274
+612070,El Dorado Union High,10478,EDUHSD Virtual Academy at Shenandoah,El Dorado,61207010478,El Dorado County,31,38.6766,-120.8351
+612330,Elk Grove Unified,8275,Elk Grove Charter,Elk Grove,61233008275,Sacramento County,21,38.39135,-121.43717
+612600,Elverta Joint Elementary,13554,Alpha Charter,Elverta,61260013554,Sacramento County,21,38.731176,-121.4663
+612810,Enterprise Elementary,14193,Redding Collegiate Academy,Redding,61281014193,Shasta County,13,40.560552,-122.356059
+612810,Enterprise Elementary,14194,PACE Academy Charter,Redding,61281014194,Shasta County,13,40.560552,-122.356059
+613170,Evergreen Union,13933,Evergreen Institute of Excellence,Cottonwood,61317013933,Tehama County,41,40.358014,-122.331483
+613890,Folsom-Cordova Unified,11068,Folsom Cordova K-8 Community Charter,Mather,61389011068,Sacramento County,41,38.544673,-121.289124
+614010,Forestville Union Elementary,12023,Forestville Academy,Forestville,61401012023,Sonoma County,41,38.473315,-122.888105
+614400,Fremont Unified,7479,Circle of Independent Learning,Fremont,61440007479,Alameda County,21,37.5383,-121.9913
+614520,Freshwater Elementary,7974,Freshwater Charter Middle,Eureka,61452007974,Humboldt County,41,40.785949,-124.082368
+614550,Fresno Unified,12619,Morris E. Dailey Charter Elementary,Fresno,61455012619,Fresno County,11,36.778906,-119.811707
+615780,Grass Valley Elementary,2267,Grass Valley Charter,Grass Valley,61578002267,Nevada County,32,39.215415,-121.06119
+615810,Gratton Elementary,12452,Gratton Charter,Denair,61581012452,Stanislaus County,41,37.572579,-120.791417
+615840,Gravenstein Union Elementary,2000,Gravenstein Elementary,Sebastopol,61584002000,Sonoma County,21,38.360848,-122.785447
+615840,Gravenstein Union Elementary,2001,Hillcrest Middle,Sebastopol,61584002001,Sonoma County,21,38.36989,-122.806116
+616320,Guerneville Elementary,2031,Guerneville Elementary (Charter),Guerneville,61632002031,Sonoma County,31,38.511386,-122.99679
+616500,Hanford Joint Union High,14320,Hanford Online Charter,Hanford,61650014320,Kings County,13,36.33407,-119.662801
+616620,Harmony Union Elementary,1736,Salmon Creek School - A Charter,Occidental,61662001736,Sonoma County,41,38.389422,-122.930681
+616650,Hart-Ransom Union Elementary,5478,Hart-Ransom Academic Charter,Modesto,61665005478,Stanislaus County,41,37.666567,-121.064639
+616680,Hawthorne,11295,Hawthorne Math and Science Academy,Hawthorne,61668011295,Los Angeles County,21,33.9203,-118.3541
+616860,Helendale Elementary,12368,Academy of Careers and Exploration,Helendale,61686012368,San Bernardino County,31,34.734513,-117.358323
+616860,Helendale Elementary,13836,Independence Charter Academy,Helendale,61686013836,San Bernardino County,41,34.74065,-117.329679
+616920,Hemet Unified,12464,Western Center Academy,Hemet,61692012464,Riverside County,41,33.705684,-116.992361
+617160,Hickman Community Charter,2171,Hickman Elementary,Hickman,61716002171,Stanislaus County,31,37.62064,-120.748742
+617160,Hickman Community Charter,5507,Hickman Charter,Hickman,61716005507,Stanislaus County,31,37.62064,-120.748742
+617160,Hickman Community Charter,8411,Hickman Middle,Hickman,61716008411,Stanislaus County,31,37.62064,-120.748742
+618390,Inglewood Unified,2257,La Tijera K-8 Academy of Excellence Charter,Inglewood,61839002257,Los Angeles County,21,33.9811,-118.369288
+618390,Inglewood Unified,8716,City Honors International Preparatory High,Inglewood,61839008716,Los Angeles County,21,33.963868,-118.356259
+618510,Island Union Elementary,2268,Island Elementary,Lemoore,61851002268,Kings County,41,36.361374,-119.833511
+619540,Kern High,4529,Kern Workforce 2000 Academy,Bakersfield,61954004529,Kern County,11,35.34243,-119.065164
+619620,Keyes Union,6745,Keyes to Learning Charter,Keyes,61962006745,Stanislaus County,21,37.552442,-120.907755
+619700,Kings Canyon Joint Unified,12321,Kings Canyon Online,Dunlap,61970012321,Fresno County,42,36.735549,-119.115747
+619700,Kings Canyon Joint Unified,13141,Reedley Middle College High,Reedley,61970013141,Fresno County,32,36.609431,-119.461895
+619770,Kings River-Hardwick Union Elementary,2379,Kings River-Hardwick Elementary,Hanford,61977002379,Kings County,41,36.401569,-119.641731
+619800,Kingsburg Elementary Charter,2380,Lincoln Elementary,Kingsburg,61980002380,Fresno County,31,36.511901,-119.546599
+619800,Kingsburg Elementary Charter,2381,Roosevelt Elementary,Kingsburg,61980002381,Fresno County,31,36.511665,-119.557323
+619800,Kingsburg Elementary Charter,2382,Washington Elementary,Kingsburg,61980002382,Fresno County,31,36.516781,-119.553142
+619800,Kingsburg Elementary Charter,7085,Central Valley Home,Kingsburg,61980007085,Fresno County,31,36.51658,-119.561251
+619800,Kingsburg Elementary Charter,9558,Rafer Johnson Junior High,Kingsburg,61980009558,Fresno County,31,36.524631,-119.554063
+619800,Kingsburg Elementary Charter,11915,Ronald W. Reagan Elementary,Kingsburg,61980011915,Fresno County,31,36.511338,-119.57093
+619800,Kingsburg Elementary Charter,12097,Island Community Day,Kingsburg,61980012097,Fresno County,31,36.51658,-119.561251
+619890,Kit Carson Union Elementary,4566,Mid Valley Alternative Charter,Hanford,61989004566,Kings County,41,36.330107,-119.582344
+621360,Lemoore Union Elementary,11285,Lemoore University Elementary Charter,Lemoore,62136011285,Kings County,41,36.292012,-119.828156
+621540,Liberty Elementary,2570,Liberty Elementary,Petaluma,62154002570,Sonoma County,23,38.278741,-122.706194
+621690,Lincoln Unified,13919,John McCandless Charter,Stockton,62169013919,San Joaquin County,11,37.988197,-121.3158
+621870,Lindsay Unified,12847,Loma Vista Charter,Lindsay,62187012847,Tulare County,31,36.206552,-119.082065
+621990,Live Oak Elementary,11260,Tierra Pacifica Charter,Santa Cruz,62199011260,Santa Cruz County,22,36.983389,-121.985753
+622230,Lodi Unified,8617,Joe Serna Jr. Charter,Acampo,62223008617,San Joaquin County,23,38.174188,-121.261338
+622560,Loomis Union Elementary,12246,Loomis Basin Charter,Loomis,62256012246,Placer County,41,38.7889,-121.1724
+622710,Los Angeles Unified,2842,Beckford Charter for Enriched Studies,Northridge,62271002842,Los Angeles County,11,34.267587,-118.548849
+622710,Los Angeles Unified,2884,Calabash Charter Academy,Woodland Hills,62271002884,Los Angeles County,11,34.158243,-118.629996
+622710,Los Angeles Unified,2886,Calvert Charter for Enriched Studies,Woodland Hills,62271002886,Los Angeles County,11,34.181803,-118.566083
+622710,Los Angeles Unified,2894,Canyon Charter Elementary,Santa Monica,62271002894,Los Angeles County,11,34.031742,-118.512182
+622710,Los Angeles Unified,2898,Carpenter Community Charter,Studio City,62271002898,Los Angeles County,11,34.141085,-118.392267
+622710,Los Angeles Unified,2905,Castlebay Lane Charter,Porter Ranch,62271002905,Los Angeles County,11,34.293974,-118.547688
+622710,Los Angeles Unified,2916,Chatsworth Charter High,Chatsworth,62271002916,Los Angeles County,11,34.252347,-118.584762
+622710,Los Angeles Unified,2923,Grover Cleveland Charter High,Reseda,62271002923,Los Angeles County,11,34.218922,-118.548335
+622710,Los Angeles Unified,2929,Colfax Charter Elementary,North Hollywood,62271002929,Los Angeles County,11,34.160779,-118.389054
+622710,Los Angeles Unified,2935,Community Magnet Charter Elementary,Los Angeles,62271002935,Los Angeles County,11,34.082118,-118.46263
+622710,Los Angeles Unified,2951,Dearborn Elementary Charter Academy,Northridge,62271002951,Los Angeles County,11,34.238773,-118.507534
+622710,Los Angeles Unified,2959,Dixie Canyon Community Charter,Sherman Oaks,62271002959,Los Angeles County,11,34.147652,-118.424474
+622710,Los Angeles Unified,2979,El Oro Way Charter For Enriched Studies,Granada Hills,62271002979,Los Angeles County,11,34.293059,-118.504298
+622710,Los Angeles Unified,2987,Emerson Community Charter,Los Angeles,62271002987,Los Angeles County,11,34.054168,-118.435876
+622710,Los Angeles Unified,2990,Encino Charter Elementary,Encino,62271002990,Los Angeles County,11,34.16225,-118.502459
+622710,Los Angeles Unified,3062,George Ellery Hale Charter Academy,Woodland Hills,62271003062,Los Angeles County,11,34.177193,-118.645593
+622710,Los Angeles Unified,3065,Hamlin Charter Academy,West Hills,62271003065,Los Angeles County,11,34.189621,-118.619993
+622710,Los Angeles Unified,3111,Justice Street Academy Charter,West Hills,62271003111,Los Angeles County,11,34.215519,-118.635655
+622710,Los Angeles Unified,3113,Kenter Canyon Elementary Charter,Los Angeles,62271003113,Los Angeles County,11,34.070732,-118.489069
+622710,Los Angeles Unified,3119,Knollwood Preparatory Academy,Granada Hills,62271003119,Los Angeles County,11,34.28541,-118.493101
+622710,Los Angeles Unified,3141,Lockhurst Drive Charter Elementary,Woodland Hills,62271003141,Los Angeles County,11,34.183449,-118.647135
+622710,Los Angeles Unified,3170,Marquez Charter,Pacific Palisades,62271003170,Los Angeles County,11,34.045734,-118.547722
+622710,Los Angeles Unified,3187,Robert A. Millikan Affiliated Charter & Perf Arts Magnet Mid,Sherman Oaks,62271003187,Los Angeles County,11,34.16277,-118.427765
+622710,Los Angeles Unified,3210,Nestle Avenue Charter,Tarzana,62271003210,Los Angeles County,11,34.161944,-118.53061
+622710,Los Angeles Unified,3225,Alfred B. Nobel Charter Middle,Northridge,62271003225,Los Angeles County,11,34.251477,-118.553004
+622710,Los Angeles Unified,3252,Open Charter Magnet,Los Angeles,62271003252,Los Angeles County,11,33.968073,-118.377599
+622710,Los Angeles Unified,3260,Palisades Charter Elementary,Pacific Palisades,62271003260,Los Angeles County,11,34.0456,-118.5272
+622710,Los Angeles Unified,3281,Plainview Academic Charter Academy,Tujunga,62271003281,Los Angeles County,11,34.265786,-118.29887
+622710,Los Angeles Unified,3286,Pomelo Community Charter,West Hills,62271003286,Los Angeles County,11,34.209471,-118.642959
+622710,Los Angeles Unified,3289,Gaspar De Portola Charter Middle,Tarzana,62271003289,Los Angeles County,11,34.16742,-118.542515
+622710,Los Angeles Unified,3301,Reseda Charter High,Reseda,62271003301,Los Angeles County,11,34.189985,-118.530262
+622710,Los Angeles Unified,3302,Paul Revere Charter Middle,Los Angeles,62271003302,Los Angeles County,11,34.056227,-118.495058
+622710,Los Angeles Unified,3311,Riverside Drive Charter,Sherman Oaks,62271003311,Los Angeles County,11,34.158008,-118.417486
+622710,Los Angeles Unified,3343,Serrania Avenue Charter For Enriched Studies,Woodland Hills,62271003343,Los Angeles County,11,34.160419,-118.587992
+622710,Los Angeles Unified,3351,Sherman Oaks Elementary Charter,Sherman Oaks,62271003351,Los Angeles County,11,34.149872,-118.455602
+622710,Los Angeles Unified,3381,Superior Street Elementary,Chatsworth,62271003381,Los Angeles County,11,34.247639,-118.574997
+622710,Los Angeles Unified,3385,Sylmar Charter High,Sylmar,62271003385,Los Angeles County,11,34.307211,-118.441848
+622710,Los Angeles Unified,3387,Taft Charter High,Woodland Hills,62271003387,Los Angeles County,11,34.169068,-118.571336
+622710,Los Angeles Unified,3401,Topanga Elementary Charter,Topanga,62271003401,Los Angeles County,41,34.0921,-118.6039
+622710,Los Angeles Unified,3402,Topeka Charter School For Advanced Studies,Northridge,62271003402,Los Angeles County,11,34.248202,-118.546631
+622710,Los Angeles Unified,3413,University High School Charter,Los Angeles,62271003413,Los Angeles County,11,34.045564,-118.460961
+622710,Los Angeles Unified,3419,Van Gogh Charter,Granada Hills,62271003419,Los Angeles County,11,34.305225,-118.506022
+622710,Los Angeles Unified,3448,Welby Way Charter Elem Sch And Gifted-High Ability Magnet,West Hills,62271003448,Los Angeles County,11,34.191576,-118.638242
+622710,Los Angeles Unified,3459,Westwood Charter Elementary,Los Angeles,62271003459,Los Angeles County,11,34.047358,-118.429953
+622710,Los Angeles Unified,3462,Wilbur Charter For Enriched Academics,Tarzana,62271003462,Los Angeles County,11,34.165166,-118.545065
+622710,Los Angeles Unified,3472,Woodlake Elementary Community Charter,Woodland Hills,62271003472,Los Angeles County,11,34.175874,-118.633272
+622710,Los Angeles Unified,3473,Woodland Hills Elementary Charter For Enriched Studies,Woodland Hills,62271003473,Los Angeles County,11,34.159029,-118.610473
+622710,Los Angeles Unified,7521,Haynes Charter For Enriched Studies,West Hills,62271007521,Los Angeles County,11,34.190312,-118.648241
+622710,Los Angeles Unified,10839,Dr. Theodore T. Alexander Jr. Science Center,Los Angeles,62271010839,Los Angeles County,11,34.01711,-118.283865
+622710,Los Angeles Unified,11654,Hesby Oaks Leadership Charter,Encino,62271011654,Los Angeles County,11,34.161734,-118.4732
+622710,Los Angeles Unified,12217,Enadia Way Technology Charter,West Hills,62271012217,Los Angeles County,11,34.199704,-118.627351
+624000,Mark West Union Elementary,1766,John B. Riebli Elementary,Santa Rosa,62400001766,Sonoma County,21,38.500803,-122.742258
+624000,Mark West Union Elementary,3611,San Miguel Elementary,Santa Rosa,62400003611,Sonoma County,21,38.514153,-122.759531
+624000,Mark West Union Elementary,11479,Mark West Charter,Santa Rosa,62400011479,Sonoma County,21,38.502088,-122.75917
+624090,Marysville Joint Unified,8671,Marysville Charter Academy for the Arts,Marysville,62409008671,Yuba County,22,39.156756,-121.58714
+626370,Mt. Diablo Unified,8688,Eagle Peak Montessori,Walnut Creek,62637008688,Contra Costa County,13,37.9117,-122.0111
+626400,Mount Pleasant Elementary,1486,Ida Jew Academies,San Jose,62640001486,Santa Clara County,11,37.346,-121.7991
+627030,New Jerusalem Elementary,10391,Delta Charter,Tracy,62703010391,San Joaquin County,41,37.667944,-121.324145
+627030,New Jerusalem Elementary,12204,New Jerusalem,Tracy,62703012204,San Joaquin County,41,37.667944,-121.324145
+627030,New Jerusalem Elementary,13736,Delta Home Charter,Tracy,62703013736,San Joaquin County,41,37.667944,-121.324145
+627030,New Jerusalem Elementary,13884,Delta Bridges Charter,Stockton,62703013884,San Joaquin County,11,38.009267,-121.30148
+627030,New Jerusalem Elementary,14175,Delta Keys Charter,Tracy,62703014175,San Joaquin County,41,37.667944,-121.324145
+627030,New Jerusalem Elementary,14183,Delta Charter Online,Tracy,62703014183,San Joaquin County,41,37.667944,-121.324145
+627120,Newcastle Elementary,11001,Newcastle Charter,Newcastle,62712011001,Placer County,41,38.871389,-121.136828
+627780,Nuview Union,10350,Nuview Bridge Early College High,Nuevo,62778010350,Riverside County,21,33.829246,-117.128808
+627840,Oak Grove Union Elementary,4226,Oak Grove Elementary/Willowside Middle,Santa Rosa,62784004226,Sonoma County,41,38.438585,-122.805549
+628320,Old Adobe Union,4385,Miwok Valley Elementary Charter,Petaluma,62832004385,Sonoma County,13,38.2363,-122.6113
+628320,Old Adobe Union,4386,Old Adobe Elementary Charter,Petaluma,62832004386,Sonoma County,41,38.262,-122.5981
+628320,Old Adobe Union,7455,Sonoma Mountain Elementary,Petaluma,62832007455,Sonoma County,13,38.2676,-122.6296
+628320,Old Adobe Union,13259,Loma Vista Immersion Academy,Petaluma,62832013259,Sonoma County,13,38.2557,-122.627
+628650,Orange Unified,4426,El Rancho Charter,Anaheim,62865004426,Orange County,11,33.8568,-117.7672
+628710,Orcutt Union Elementary,12315,Orcutt Academy Charter,Orcutt,62871012315,Santa Barbara County,22,34.8622,-120.4409
+629430,Pacific Union Elementary,11947,Trillium Charter,Arcata,62943011947,Humboldt County,33,40.889702,-124.086804
+629490,Pajaro Valley Unified,4554,Alianza Charter,Watsonville,62949004554,Santa Cruz County,41,36.960615,-121.731545
+629490,Pajaro Valley Unified,8364,Pacific Coast Charter,Watsonville,62949008364,Santa Cruz County,13,36.939516,-121.76868
+629490,Pajaro Valley Unified,8366,Diamond Technology Institute,Watsonville,62949008366,Santa Cruz County,13,36.923704,-121.773162
+629490,Pajaro Valley Unified,9599,Linscott Charter,Watsonville,62949009599,Santa Cruz County,13,36.91048,-121.750063
+629490,Pajaro Valley Unified,10413,Watsonville Charter School of the Arts,Watsonville,62949010413,Santa Cruz County,41,36.959731,-121.733557
+629550,Palm Springs Unified,4562,Cielo Vista Charter,Palm Springs,62955004562,Riverside County,21,33.813408,-116.500945
+629580,Palmdale Elementary,14567,Palmdale Academy Charter,Palmdale,62958014567,Los Angeles County,21,34.572348,-118.060197
+629790,Paradise Elementary,11813,Paradise Charter,Modesto,62979011813,Stanislaus County,41,37.62449,-121.055054
+630180,Perris Elementary,8940,Innovative Horizons Charter,Perris,63018008940,Riverside County,21,33.8,-117.2341
+630210,Perris Union High,11184,California Military Institute,Perris,63021011184,Riverside County,21,33.791769,-117.23426
+630230,Petaluma City Elementary,4722,Penngrove Elementary,Penngrove,63023004722,Sonoma County,41,38.300754,-122.667959
+630250,Petaluma Joint Union High,4716,Mary Collins Charter School at Cherry Valley,Petaluma,63025004716,Sonoma County,13,38.243633,-122.655713
+630250,Petaluma Joint Union High,13937,Petaluma Accelerated Charter,Petaluma,63025013937,Sonoma County,13,38.244612,-122.632933
+630510,Pioneer Union Elementary,4741,Pioneer Elementary,Hanford,63051004741,Kings County,41,36.346429,-119.709456
+630510,Pioneer Union Elementary,10226,Pioneer Middle,Hanford,63051010226,Kings County,13,36.369034,-119.647752
+630510,Pioneer Union Elementary,12323,Frontier Elementary,Hanford,63051012323,Kings County,41,36.345329,-119.687754
+630750,Placer Union High,14310,Maidu Virtual Charter Academy,Auburn,63075014310,Placer County,31,38.89608,-121.068531
+630930,Pleasant Ridge Union Elementary,14123,Arete Charter Academy,Grass Valley,63093014123,Nevada County,41,39.074122,-121.112523
+631320,Pomona Unified,4864,La Verne Science and Technology Charter,Pomona,63132004864,Los Angeles County,21,34.085983,-117.753087
+631320,Pomona Unified,12112,School of Extended Educational Options,Pomona,63132012112,Los Angeles County,21,34.061924,-117.723215
+632040,Redding Elementary,14118,Stellar Charter,Redding,63204014118,Shasta County,13,40.530902,-122.372627
+632640,Rincon Valley Union Elementary,5077,Binkley Elementary Charter,Santa Rosa,63264005077,Sonoma County,12,38.4739,-122.6631
+632640,Rincon Valley Union Elementary,5079,Manzanita Elementary Charter,Santa Rosa,63264005079,Sonoma County,12,38.4373,-122.6704
+632640,Rincon Valley Union Elementary,5080,Whited Elementary Charter,Santa Rosa,63264005080,Sonoma County,12,38.4653,-122.6622
+632640,Rincon Valley Union Elementary,5083,Village Elementary Charter,Santa Rosa,63264005083,Sonoma County,12,38.4454,-122.6751
+632640,Rincon Valley Union Elementary,11481,Spring Lake Charter,Santa Rosa,63264011481,Sonoma County,12,38.444004,-122.666108
+633210,Roberts Ferry Union Elementary,12712,Roberts Ferry Charter School Academy,Waterford,63321012712,Stanislaus County,42,37.637903,-120.619186
+633840,Sacramento City Unified,5224,Bowling Green Elementary,Sacramento,63384005224,Sacramento County,21,38.502139,-121.459467
+633840,Sacramento City Unified,5261,New Joseph Bonnheim (NJB) Community Charter,Sacramento,63384005261,Sacramento County,11,38.533337,-121.418249
+633840,Sacramento City Unified,11194,The MET,Sacramento,63384011194,Sacramento County,11,38.56731,-121.50135
+633840,Sacramento City Unified,11195,George Washington Carver School of Arts and Science,Sacramento,63384011195,Sacramento County,13,38.564742,-121.316463
+633840,Sacramento City Unified,11196,New Technology High,Sacramento,63384011196,Sacramento County,11,38.518504,-121.503673
+633900,Salida Union Elementary,12472,Independence Charter,Modesto,63390012472,Stanislaus County,12,37.695843,-121.058015
+634620,San Juan Unified,8284,San Juan Choices Charter,Sacramento,63462008284,Sacramento County,21,38.604858,-121.358951
+634740,San Lorenzo Valley Unified,2797,SLVUSD Charter,Ben Lomond,63474002797,Santa Cruz County,22,37.084672,-122.074799
+635250,Sanger Unified,7967,Hallmark Charter,Sanger,63525007967,Fresno County,31,36.7026,-119.5716
+635250,Sanger Unified,8474,Quail Lake Environmental Charter,Clovis,63525008474,Fresno County,21,36.794545,-119.598285
+635250,Sanger Unified,8475,Sanger Academy Charter,Sanger,63525008475,Fresno County,31,36.702421,-119.568502
+635310,Santa Ana Unified,14192,Advanced Learning Academy,Santa Ana,63531014192,Orange County,11,33.745285,-117.863637
+635600,Santa Cruz City High,6664,Delta Charter,Aptos,63560006664,Santa Cruz County,22,36.985,-121.9256
+635810,Santa Rosa Elementary,6119,Santa Rosa French-American Charter (SRFACS),Santa Rosa,63581006119,Sonoma County,12,38.4414,-122.6973
+635810,Santa Rosa Elementary,11850,Santa Rosa Charter School for the Arts,Santa Rosa,63581011850,Sonoma County,12,38.4469,-122.7143
+635810,Santa Rosa Elementary,13339,Cesar Chavez Language Academy,Santa Rosa,63581013339,Sonoma County,12,38.4252,-122.7462
+635830,Santa Rosa High,11482,Santa Rosa Accelerated Charter,Santa Rosa,63583011482,Sonoma County,12,38.4812,-122.6709
+636360,Sequoia Union Elementary,6193,Sequoia Elementary Charter,Lemon Cove,63636006193,Tulare County,42,36.375753,-119.037091
+636660,Shiloh Elementary,12799,Shiloh Charter,Modesto,63666012799,Stanislaus County,41,37.609338,-121.115668
+637350,South Bay Union Elementary,12891,South Bay Charter,Eureka,63735012891,Humboldt County,33,40.734838,-124.208164
+637380,South Bay Union,6320,Imperial Beach Charter,Imperial Beach,63738006320,San Diego County,21,32.578847,-117.119463
+637380,South Bay Union,6321,Nestor Language Academy Charter,San Diego,63738006321,San Diego County,11,32.570262,-117.083037
+638010,Stockton Unified,6427,Nightingale Charter,Stockton,63801006427,San Joaquin County,11,37.919404,-121.25516
+638010,Stockton Unified,11780,Pittman Charter,Stockton,63801011780,San Joaquin County,11,37.962038,-121.283774
+638010,Stockton Unified,12446,Stockton Early College Academy,Stockton,63801012446,San Joaquin County,11,37.966748,-121.289662
+638010,Stockton Unified,12644,Health Careers Academy,Stockton,63801012644,San Joaquin County,11,37.965564,-121.281758
+638010,Stockton Unified,12846,Pacific Law Academy,Stockton,63801012846,San Joaquin County,11,37.983498,-121.325201
+638280,Summerville Union High,10707,Connections Visual and Performing Arts Academy,Tuolumne,63828010707,Tuolumne County,41,37.961514,-120.255415
+639930,Tulare Joint Union High,4203,Sierra Vista Charter High,Tulare,63993004203,Tulare County,22,36.211241,-119.347793
+639930,Tulare Joint Union High,13976,Accelerated Charter High,Tulare,63993013976,Tulare County,41,36.251957,-119.31002
+640230,Twin Hills Union Elementary,6653,Twin Hills Charter Middle,Sebastopol,64023006653,Sonoma County,21,38.379651,-122.836264
+640230,Twin Hills Union Elementary,8651,Orchard View,Sebastopol,64023008651,Sonoma County,41,38.388829,-122.852421
+640230,Twin Hills Union Elementary,10687,Sunridge Charter,Sebastopol,64023010687,Sonoma County,21,38.39333,-122.822948
+640380,Union Hill Elementary,6681,Union Hill Elementary Charter School,Grass Valley,64038006681,Nevada County,32,39.205315,-121.037797
+640590,Vacaville Unified,2846,Buckingham Collegiate Charter Academy,Vacaville,64059002846,Solano County,23,38.35832,-121.983426
+640590,Vacaville Unified,6701,Fairmont Charter Elementary,Vacaville,64059006701,Solano County,23,38.3455,-121.9677
+640590,Vacaville Unified,14015,Ernest Kimme Charter Academy for Independent Learning,Vacaville,64059014015,Solano County,23,38.347903,-121.989585
+640740,Vallejo City Unified,12088,Vallejo Charter,Vallejo,64074012088,Solano County,12,38.108702,-122.213896
+641040,Victor Elementary,7280,Sixth Street Prep,Victorville,64104007280,San Bernardino County,21,34.534344,-117.297319
+641040,Victor Elementary,8587,Mountain View Montessori Charter,Victorville,64104008587,San Bernardino County,21,34.478821,-117.293342
+641160,Visalia Unified,8424,Charter Home School Academy,Visalia,64116008424,Tulare County,12,36.31959,-119.29399
+641160,Visalia Unified,11823,Visalia Charter Independent Study,Visalia,64116011823,Tulare County,12,36.321703,-119.312905
+641160,Visalia Unified,12503,Visalia Technical Early College,Visalia,64116012503,Tulare County,12,36.311851,-119.340985
+641160,Visalia Unified,14140,Global Learning Charter,Visalia,64116014140,Tulare County,12,36.35356,-119.302635
+641580,Washington Unified,12111,Washington Middle College High,West Sacramento,64158012111,Yolo County,13,38.597546,-121.534169
+642060,West Park Elementary,3032,West Park Charter Academy,Fresno,64206003032,Fresno County,41,36.694154,-119.854179
+642330,Wheatland,11548,Wheatland Charter Academy,Beale AFB,64233011548,Yuba County,42,39.102295,-121.334456
+643080,Woodland Joint Unified,12745,Science & Technology Academy at Knights Landing,Knights Landing,64308012745,Yolo County,42,38.7983,-121.7205
+643200,Wright Elementary,7016,Wright Charter,Santa Rosa,64320007016,Sonoma County,21,38.419797,-122.773702
+643560,Yucaipa-Calimesa Joint Unified,12910,Competitive Edge Charter Academy (CECA),Yucaipa,64356012910,San Bernardino County,21,34.043711,-117.053098
+691002,Butte County Office of Education,5704,Hearthstone,Oroville,69100205704,Butte County,32,39.525727,-121.578368
+691002,Butte County Office of Education,14048,Come Back Butte Charter,Oroville,69100214048,Butte County,32,39.505374,-121.553443
+691005,Contra Costa County Office of Education,10472,Golden Gate Community,Pittsburg,69100510472,Contra Costa County,21,38.003832,-121.874314
+691006,El Dorado County Office of Education,1981,Charter Community School Home Study Academy,Placerville,69100601981,El Dorado County,41,38.721656,-120.867054
+691006,El Dorado County Office of Education,2957,Rite of Passage,Yerington,69100602957,Lyon County,42,39.08338,-119.219083
+691006,El Dorado County Office of Education,12762,Charter Alternative Program (CAP),El Dorado,69100612762,El Dorado County,31,38.68081,-120.834688
+691008,Glenn County Office of Education,8479,William Finch,Orland,69100808479,Glenn County,32,39.748438,-122.174692
+691010,Imperial County Office of Education,14014,Imperial Pathways Charter,El Centro,69101014014,Imperial County,22,32.752093,-115.563759
+691012,Kern County Office of Education,8491,Valley Oaks Charter,Bakersfield,69101208491,Kern County,11,35.39148,-119.019534
+691017,Madera County Superintendent of Schools,10539,Pioneer Technical Center,Madera,69101710539,Madera County,13,36.952874,-120.033994
+691017,Madera County Superintendent of Schools,12301,Madera County Independent Academy,Madera,69101712301,Madera County,13,36.952975,-120.037103
+691018,Marin County Office of Education,4617,Phoenix Academy,San Rafael,69101804617,Marin County,13,38.013828,-122.550273
+691020,Merced County Office of Education,10960,Merced Scholars Charter,Merced,69102010960,Merced County,13,37.294539,-120.509284
+691020,Merced County Office of Education,14312,Come Back Charter,Merced,69102014312,Merced County,13,37.331709,-120.47362
+691021,Monterey County Office of Education,8529,Monterey County Home Charter,Salinas,69102108529,Monterey County,12,36.65341,-121.63976
+691023,Nevada County Office of Education,11839,Forest Charter,Nevada City,69102311839,Nevada County,32,39.255671,-121.023752
+691023,Nevada County Office of Education,11877,Twin Ridges Home Study Charter,Nevada City,69102311877,Nevada County,32,39.248031,-121.016376
+691023,Nevada County Office of Education,11975,Bitney Prep High,Grass Valley,69102311975,Nevada County,32,39.232894,-121.042034
+691025,Placer County Office of Education,13072,Placer County Pathways Charter,Auburn,69102513072,Placer County,31,38.906532,-121.08124
+691026,Riverside County Office of Education,13694,Come Back Kids,Riverside,69102613694,Riverside County,11,33.9789,-117.3805
+691032,San Luis Obispo County Office of Education,11281,Grizzly ChalleNGe Charter,San Luis Obispo,69103211281,San Luis Obispo County,23,35.324192,-120.729577
+691035,Santa Clara County Office of Education,14054,Opportunity Youth Academy,San Jose,69103514054,Santa Clara County,11,37.383643,-121.900494
+691036,Santa Cruz County Office of Education,14200,Santa Cruz County Career Advancement Charter,Freedom,69103614200,Santa Cruz County,23,36.938322,-121.771636
+691042,Sutter County Office of Education,14475,Pathways Charter Academy,Yuba City,69104214475,Sutter County,13,39.1382,-121.653
+691043,Tehama County Department of Education,10442,Lincoln Street,Red Bluff,69104310442,Tehama County,32,40.178311,-122.245492
+691045,Tulare County Office of Education,8660,La Sierra High,Visalia,69104508660,Tulare County,12,36.340985,-119.273706
+691045,Tulare County Office of Education,12387,University Preparatory High,Visalia,69104512387,Tulare County,12,36.324068,-119.317547
+691048,Yuba County Office of Education,5572,Yuba County Career Preparatory Charter,Marysville,69104805572,Yuba County,22,39.147149,-121.591962
+691051,Alameda County Office of Education,14090,Opportunity Academy,Hayward,69105114090,Alameda County,21,37.658477,-122.098334
+691052,Mono County Office of Education,12994,Urban Corps of San Diego County Charter,San Diego,69105212994,San Diego County,11,32.755363,-117.203442
+691063,Del Norte County Office of Education,8694,Castle Rock,Crescent City,69106308694,Del Norte County,33,41.767978,-124.210961
